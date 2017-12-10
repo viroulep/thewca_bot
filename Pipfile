@@ -11,4 +11,5 @@ name = "pypi"
 
 [packages]
 
-telegram = "*"
+python-telegram-bot = "*"
+requests = "*"

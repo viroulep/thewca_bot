@@ -18,7 +18,7 @@ bot.
 """
 from uuid import uuid4
 
-import re, json
+import re, json, os, requests
 
 from telegram.utils.helpers import escape_markdown
 
@@ -33,8 +33,11 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 logger = logging.getLogger(__name__)
 
-wca_regs_data = json.load(open("wca-regulations.json"))
+wca_regs_data = json.load(open("data/wca-regulations.json"))
 telegram_token = os.environ['TELEGRAM_TOKEN']
+wca_base_url = 'https://www.worldcubeassociation.org'
+wca_api_url = wca_base_url + '/api/v0'
+wca_logo_url = wca_base_url + '/files/WCAlogo_notext.svg'
 
 # Define a few command handlers. These usually take the two arguments bot and
 # update. Error handlers also receive the raised TelegramError object in error.
@@ -59,18 +62,77 @@ def find_reg(text):
       break
   return result
 
+def regulation_description(reg_type, reg):
+  description = "<a href=\"{}\">{} {}</a>:\n".format(wca_base_url+reg["url"], reg_type, reg["id"])
+  description += reg["content_html"]
+  return description
+
+def profile_description(person):
+  description = "{} ({}) - {}\n".format(person["name"], person["wca_id"], person["country_iso2"])
+  if person["delegate_status"]:
+    description += "This person is a {} for {}\n".format(person["delegate_status"], person["region"])
+  for team in person["teams"]:
+    description += "{} team member.\n".format(team["friendly_id"])
+  description += "[WCA profile]({})".format(person["url"])
+  return description
+
+def competition_description(comp):
+  description = "{} ({}) - {}\n".format(comp["name"], comp["id"], comp["country_iso2"])
+  description += "Competition starts on {} and ends on {}\n".format(comp["start_date"], comp["end_date"])
+  delegates = []
+  for person in comp["delegates"]:
+    delegates.append("[{}]({})".format(person["name"], person["url"]))
+  description += "Delegate(s): " + ", ".join(delegates)
+  organizers = []
+  for person in comp["organizers"]:
+    organizers.append("[{}]({})".format(person["name"], person["url"]))
+  description += "Organizer(s): " + ", ".join(organizers)
+  return description
+
+def omni_search(text):
+  params = dict(q=text)
+  if len(text) <= 2:
+    return []
+  resp = requests.get(url=wca_api_url+"/search", params=params)
+  data = json.loads(resp.text)
+  results = []
+
+  for result in data["result"]:
+    if result["class"] == "person":
+      results.append(InlineQueryResultArticle(
+          id=uuid4(),
+          title="{}'s profile".format(result["name"]),
+          thumb_url=result["avatar"]["thumb_url"],
+          url=result["url"],
+          input_message_content=InputTextMessageContent(profile_description(result), parse_mode=ParseMode.MARKDOWN),
+          description=result["country_iso2"],
+        ))
+    elif result["class"] == "competition":
+      results.append(InlineQueryResultArticle(
+          id=uuid4(),
+          title=result["name"],
+          url=result["url"],
+          thumb_url=wca_logo_url,
+          input_message_content=InputTextMessageContent(competition_description(result), parse_mode=ParseMode.MARKDOWN),
+          description="Competition, starts {} in {}, {}".format(result["start_date"], result["city"], result["country_iso2"]),
+        ))
+    elif result["class"] == "regulation":
+      reg_type = "Guideline" if result["id"].endswith("+") else "Regulation"
+      results.append(InlineQueryResultArticle(
+          id=uuid4(),
+          title="{} {}".format(reg_type, result["id"]),
+          url=wca_base_url+result["url"],
+          thumb_url=wca_logo_url,
+          input_message_content=InputTextMessageContent(regulation_description(reg_type, result), parse_mode=ParseMode.HTML),
+          description="{} [...]".format(result["content_html"][:20]),
+        ))
+  return results
+
 
 def inlinequery(bot, update):
   """Handle the inline query."""
   query = update.inline_query.query
-  url, message = find_reg(query)
-  results = [
-      InlineQueryResultArticle(
-          id=uuid4(),
-          title="Search result",
-          input_message_content=InputTextMessageContent(
-            query + ": " + message)),
-      ]
+  results = omni_search(query)
   update.inline_query.answer(results)
 
 
@@ -82,8 +144,6 @@ def error(bot, update, error):
 def main():
   # Create the Updater and pass it your bot's token.
   updater = Updater(token=telegram_token)
-
-  logger.warning('Token is "%s"', telegram_token)
 
   # Get the dispatcher to register handlers
   dp = updater.dispatcher
