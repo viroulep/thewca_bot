@@ -89,6 +89,7 @@ def competition_description(comp):
   for person in comp["organizers"]:
     organizers.append("[{}]({})".format(person["name"], person["url"]))
   description += "Organizer(s): " + ", ".join(organizers)
+  description += "Page on the [WCA website]({})".format(comp["url"])
   logger.info(description)
   return description
 
