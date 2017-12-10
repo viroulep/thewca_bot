@@ -71,7 +71,7 @@ def regulation_description(reg_type, reg):
 def profile_description(person):
   description = "{} ({}) - {}\n".format(person["name"], person["wca_id"], person["country_iso2"])
   if person["delegate_status"]:
-    description += "This person is a {} for {}\n".format(person["delegate_status"], person["region"])
+    description += "This person is a {} for {}\n".format(person["delegate_status"].replace("_", " "), person["region"])
   for team in person["teams"]:
     description += "{} team member.\n".format(team["friendly_id"])
   description += "[WCA profile]({})".format(person["url"])
