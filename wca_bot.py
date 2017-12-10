@@ -43,12 +43,12 @@ wca_logo_url = wca_base_url + '/files/WCAlogo_notext.svg'
 # update. Error handlers also receive the raised TelegramError object in error.
 def start(bot, update):
   """Send a message when the command /start is issued."""
-  update.message.reply_text('Please input a WCA Regulation or Guideline and I\'ll give you its text.')
+  update.message.reply_text('I only work inline, type my name and search the WCA!')
 
 
 def help(bot, update):
   """Send a message when the command /help is issued."""
-  update.message.reply_text('Please input a WCA Regulation or Guideline and I\'ll give you its text.')
+  update.message.reply_text('I only work inline, type my name and search the WCA!')
 
 def get_regs(bot, update):
   url, message = find_reg(update.message.text)
