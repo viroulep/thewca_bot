@@ -65,6 +65,7 @@ def find_reg(text):
 def regulation_description(reg_type, reg):
   description = "<a href=\"{}\">{} {}</a>:\n".format(wca_base_url+reg["url"], reg_type, reg["id"])
   description += reg["content_html"]
+  logger.info(description)
   return description
 
 def profile_description(person):
@@ -74,6 +75,7 @@ def profile_description(person):
   for team in person["teams"]:
     description += "{} team member.\n".format(team["friendly_id"])
   description += "[WCA profile]({})".format(person["url"])
+  logger.info(description)
   return description
 
 def competition_description(comp):
@@ -82,11 +84,12 @@ def competition_description(comp):
   delegates = []
   for person in comp["delegates"]:
     delegates.append("[{}]({})".format(person["name"], person["url"]))
-  description += "Delegate(s): " + ", ".join(delegates)
+  description += "Delegate(s): " + ", ".join(delegates) + "\n"
   organizers = []
   for person in comp["organizers"]:
     organizers.append("[{}]({})".format(person["name"], person["url"]))
   description += "Organizer(s): " + ", ".join(organizers)
+  logger.info(description)
   return description
 
 def omni_search(text):
@@ -124,7 +127,7 @@ def omni_search(text):
           url=wca_base_url+result["url"],
           thumb_url=wca_logo_url,
           input_message_content=InputTextMessageContent(regulation_description(reg_type, result), parse_mode=ParseMode.HTML),
-          description="{} [...]".format(result["content_html"][:20]),
+          description="{} ...".format(result["content_html"][:20]),
         ))
   return results
 
