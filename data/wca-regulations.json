@@ -1,0 +1,3116 @@
+[
+  {
+    "url": "/regulations/#1a",
+    "content_html": "A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.",
+    "class": "regulation",
+    "id": "1a"
+  },
+  {
+    "url": "/regulations/#1b",
+    "content_html": "The organization team of a competition is responsible for logistics before, during, and after the competition.",
+    "class": "regulation",
+    "id": "1b"
+  },
+  {
+    "url": "/regulations/#1c",
+    "content_html": "The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:",
+    "class": "regulation",
+    "id": "1c"
+  },
+  {
+    "url": "/regulations/#1c1",
+    "content_html": "Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.",
+    "class": "regulation",
+    "id": "1c1"
+  },
+  {
+    "url": "/regulations/#1c3",
+    "content_html": "Sending the competition results to the WCA Results Team within one week of the end of the competition.",
+    "class": "regulation",
+    "id": "1c3"
+  },
+  {
+    "url": "/regulations/#1c3a",
+    "content_html": "All scramble sequences used during a competition must be sent with the results of the competition.",
+    "class": "regulation",
+    "id": "1c3a"
+  },
+  {
+    "url": "/regulations/#1c3b",
+    "content_html": "Scramble sequences must be labeled with the events, rounds, and groups for which they were used.",
+    "class": "regulation",
+    "id": "1c3b"
+  },
+  {
+    "url": "/regulations/#1c4",
+    "content_html": "Sending corrections to the competition results to the WCA Results Team.",
+    "class": "regulation",
+    "id": "1c4"
+  },
+  {
+    "url": "/regulations/#1c5",
+    "content_html": "Advising the other officials where necessary.",
+    "class": "regulation",
+    "id": "1c5"
+  },
+  {
+    "url": "/regulations/#1c6",
+    "content_html": "Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.",
+    "class": "regulation",
+    "id": "1c6"
+  },
+  {
+    "url": "/regulations/#1c7",
+    "content_html": "Decisions about disqualifying competitors during the competition.",
+    "class": "regulation",
+    "id": "1c7"
+  },
+  {
+    "url": "/regulations/#1c8",
+    "content_html": "Providing the scramble sequences.",
+    "class": "regulation",
+    "id": "1c8"
+  },
+  {
+    "url": "/regulations/#1c9",
+    "content_html": "Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.",
+    "class": "regulation",
+    "id": "1c9"
+  },
+  {
+    "url": "/regulations/#1c10",
+    "content_html": "Making a copy of the WCA Regulations available at the competition.",
+    "class": "regulation",
+    "id": "1c10"
+  },
+  {
+    "url": "/regulations/#1e",
+    "content_html": "Each event must have one or more judges.",
+    "class": "regulation",
+    "id": "1e"
+  },
+  {
+    "url": "/regulations/#1e1",
+    "content_html": "A judge is responsible for executing the procedures of the event.",
+    "class": "regulation",
+    "id": "1e1"
+  },
+  {
+    "url": "/regulations/#1e1a",
+    "content_html": "A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.",
+    "class": "regulation",
+    "id": "1e1a"
+  },
+  {
+    "url": "/regulations/#1e2",
+    "content_html": "Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see <a href=\"https://www.worldcubeassociation.org/regulations/#2k\">Regulation 2k</a>).",
+    "class": "regulation",
+    "id": "1e2"
+  },
+  {
+    "url": "/regulations/#1f",
+    "content_html": "Each event must have one or more scramblers. Exception: Fewest Moves Solving.",
+    "class": "regulation",
+    "id": "1f"
+  },
+  {
+    "url": "/regulations/#1f1",
+    "content_html": "A scrambler applies scramble sequences to prepare puzzles for attempts.",
+    "class": "regulation",
+    "id": "1f1"
+  },
+  {
+    "url": "/regulations/#1f2",
+    "content_html": "Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see <a href=\"https://www.worldcubeassociation.org/regulations/#2k\">Regulation 2k</a>).",
+    "class": "regulation",
+    "id": "1f2"
+  },
+  {
+    "url": "/regulations/#1g",
+    "content_html": "Each event must have one or more score takers.",
+    "class": "regulation",
+    "id": "1g"
+  },
+  {
+    "url": "/regulations/#1g1",
+    "content_html": "A score taker is responsible for compiling results.",
+    "class": "regulation",
+    "id": "1g1"
+  },
+  {
+    "url": "/regulations/#1g2",
+    "content_html": "Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "1g2"
+  },
+  {
+    "url": "/regulations/#1h",
+    "content_html": "Competitors in the same round of an event may be divided into groups.",
+    "class": "regulation",
+    "id": "1h"
+  },
+  {
+    "url": "/regulations/#1h1",
+    "content_html": "Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet.",
+    "class": "regulation",
+    "id": "1h1"
+  },
+  {
+    "url": "/regulations/#1j",
+    "content_html": "All officials may compete in the competition.",
+    "class": "regulation",
+    "id": "1j"
+  },
+  {
+    "url": "/regulations/#1k",
+    "content_html": "Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).",
+    "class": "regulation",
+    "id": "1k"
+  },
+  {
+    "url": "/regulations/#2a",
+    "content_html": "Any person may compete in a WCA competition if they:",
+    "class": "regulation",
+    "id": "2a"
+  },
+  {
+    "url": "/regulations/#2a1",
+    "content_html": "Comply with WCA Regulations.",
+    "class": "regulation",
+    "id": "2a1"
+  },
+  {
+    "url": "/regulations/#2a2",
+    "content_html": "Meet the competition requirements, which must be clearly announced before the competition.",
+    "class": "regulation",
+    "id": "2a2"
+  },
+  {
+    "url": "/regulations/#2a3",
+    "content_html": "Are not suspended by WCA Board.",
+    "class": "regulation",
+    "id": "2a3"
+  },
+  {
+    "url": "/regulations/#2b",
+    "content_html": "Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.",
+    "class": "regulation",
+    "id": "2b"
+  },
+  {
+    "url": "/regulations/#2c",
+    "content_html": "Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).",
+    "class": "regulation",
+    "id": "2c"
+  },
+  {
+    "url": "/regulations/#2c1",
+    "content_html": "A competitor is not eligible to compete without a completed registration, as determined by the organization team.",
+    "class": "regulation",
+    "id": "2c1"
+  },
+  {
+    "url": "/regulations/#2d",
+    "content_html": "A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.",
+    "class": "regulation",
+    "id": "2d"
+  },
+  {
+    "url": "/regulations/#2e",
+    "content_html": "Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.",
+    "class": "regulation",
+    "id": "2e"
+  },
+  {
+    "url": "/regulations/#2e1",
+    "content_html": "The eligible countries are defined by the <a href=\"https://www.worldcubeassociation.org/regulations/countries/\">WCA List of Recognized Countries</a>.",
+    "class": "regulation",
+    "id": "2e1"
+  },
+  {
+    "url": "/regulations/#2e2",
+    "content_html": "Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.",
+    "class": "regulation",
+    "id": "2e2"
+  },
+  {
+    "url": "/regulations/#2e3",
+    "content_html": "Competitors who have no citizenship may compete as &quot;Stateless&quot;.",
+    "class": "regulation",
+    "id": "2e3"
+  },
+  {
+    "url": "/regulations/#2f",
+    "content_html": "Competitors must obey venue rules and conduct themselves in a considerate manner.",
+    "class": "regulation",
+    "id": "2f"
+  },
+  {
+    "url": "/regulations/#2g",
+    "content_html": "Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.",
+    "class": "regulation",
+    "id": "2g"
+  },
+  {
+    "url": "/regulations/#2g3",
+    "content_html": "Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "2g3"
+  },
+  {
+    "url": "/regulations/#2h",
+    "content_html": "Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.",
+    "class": "regulation",
+    "id": "2h"
+  },
+  {
+    "url": "/regulations/#2i",
+    "content_html": "While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).",
+    "class": "regulation",
+    "id": "2i"
+  },
+  {
+    "url": "/regulations/#2i1",
+    "content_html": "Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:",
+    "class": "regulation",
+    "id": "2i1"
+  },
+  {
+    "url": "/regulations/#2i1a",
+    "content_html": "Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to <a href=\"https://www.worldcubeassociation.org/regulations/#2i\">Regulation 2i</a>, medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if competitor has a personal hearing aid or pacemaker).",
+    "class": "regulation",
+    "id": "2i1a"
+  },
+  {
+    "url": "/regulations/#2i1b",
+    "content_html": "Earplugs and earmuffs (but not electronic noise-cancelling headphones).",
+    "class": "regulation",
+    "id": "2i1b"
+  },
+  {
+    "url": "/regulations/#2i2",
+    "content_html": "Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "2i2"
+  },
+  {
+    "url": "/regulations/#2i2a",
+    "content_html": "Each camera monitor must be blank or out of sight of the competitor (see <a href=\"https://www.worldcubeassociation.org/regulations/#A5b\">Regulation A5b</a>).",
+    "class": "regulation",
+    "id": "2i2a"
+  },
+  {
+    "url": "/regulations/#2i2b",
+    "content_html": "The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).",
+    "class": "regulation",
+    "id": "2i2b"
+  },
+  {
+    "url": "/regulations/#2j",
+    "content_html": "The WCA Delegate may disqualify a competitor from a specific event.",
+    "class": "regulation",
+    "id": "2j"
+  },
+  {
+    "url": "/regulations/#2j1",
+    "content_html": "If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.",
+    "class": "regulation",
+    "id": "2j1"
+  },
+  {
+    "url": "/regulations/#2j2",
+    "content_html": "If a competitor is disqualified during the course of an event, their earlier results remain valid. Exception: cheating or defrauding (see <a href=\"https://www.worldcubeassociation.org/regulations/#2k2a\">Regulation 2k2a</a>).",
+    "class": "regulation",
+    "id": "2j2"
+  },
+  {
+    "url": "/regulations/#2k",
+    "content_html": "At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:",
+    "class": "regulation",
+    "id": "2k"
+  },
+  {
+    "url": "/regulations/#2k1",
+    "content_html": "Fails to check in or register in time for the competition.",
+    "class": "regulation",
+    "id": "2k1"
+  },
+  {
+    "url": "/regulations/#2k2",
+    "content_html": "Is suspected of cheating or defrauding the officials during the competition.",
+    "class": "regulation",
+    "id": "2k2"
+  },
+  {
+    "url": "/regulations/#2k2a",
+    "content_html": "The WCA Delegate may disqualify any suspected results.",
+    "class": "regulation",
+    "id": "2k2a"
+  },
+  {
+    "url": "/regulations/#2k3",
+    "content_html": "Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.",
+    "class": "regulation",
+    "id": "2k3"
+  },
+  {
+    "url": "/regulations/#2k4",
+    "content_html": "Interferes with, or distracts others during, the competition.",
+    "class": "regulation",
+    "id": "2k4"
+  },
+  {
+    "url": "/regulations/#2k5",
+    "content_html": "Fails to abide by WCA Regulations during the competition.",
+    "class": "regulation",
+    "id": "2k5"
+  },
+  {
+    "url": "/regulations/#2l",
+    "content_html": "A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.",
+    "class": "regulation",
+    "id": "2l"
+  },
+  {
+    "url": "/regulations/#2l1",
+    "content_html": "A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.",
+    "class": "regulation",
+    "id": "2l1"
+  },
+  {
+    "url": "/regulations/#2n",
+    "content_html": "Competitors may verbally dispute a ruling to the WCA Delegate.",
+    "class": "regulation",
+    "id": "2n"
+  },
+  {
+    "url": "/regulations/#2n1",
+    "content_html": "Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of any following rounds of the relevant event.",
+    "class": "regulation",
+    "id": "2n1"
+  },
+  {
+    "url": "/regulations/#2n2",
+    "content_html": "The WCA Delegate must resolve the dispute before the start of the next round of the event.",
+    "class": "regulation",
+    "id": "2n2"
+  },
+  {
+    "url": "/regulations/#2n3",
+    "content_html": "The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.",
+    "class": "regulation",
+    "id": "2n3"
+  },
+  {
+    "url": "/regulations/#2s",
+    "content_html": "Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.",
+    "class": "regulation",
+    "id": "2s"
+  },
+  {
+    "url": "/regulations/#2t",
+    "content_html": "Each competitor must be familiar with and understand the WCA Regulations before the competition.",
+    "class": "regulation",
+    "id": "2t"
+  },
+  {
+    "url": "/regulations/#2u",
+    "content_html": "Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.",
+    "class": "regulation",
+    "id": "2u"
+  },
+  {
+    "url": "/regulations/#2u1",
+    "content_html": "Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a Fewest Moves attempt, a Multiple Blindfolded attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "2u1"
+  },
+  {
+    "url": "/regulations/#3a",
+    "content_html": "Competitors must provide their own puzzles for the competition.",
+    "class": "regulation",
+    "id": "3a"
+  },
+  {
+    "url": "/regulations/#3a1",
+    "content_html": "Competitors must be ready to submit their puzzles when they are called (see <a href=\"https://www.worldcubeassociation.org/regulations/#2u\">Regulation 2u</a>).",
+    "class": "regulation",
+    "id": "3a1"
+  },
+  {
+    "url": "/regulations/#3a2",
+    "content_html": "Puzzles must be fully operational, such that normal scrambling is possible.",
+    "class": "regulation",
+    "id": "3a2"
+  },
+  {
+    "url": "/regulations/#3a3",
+    "content_html": "Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.",
+    "class": "regulation",
+    "id": "3a3"
+  },
+  {
+    "url": "/regulations/#3d",
+    "content_html": "Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material.",
+    "class": "regulation",
+    "id": "3d"
+  },
+  {
+    "url": "/regulations/#3d1",
+    "content_html": "For competitors with a medically documented visual disability, the following exceptions apply:",
+    "class": "regulation",
+    "id": "3d1"
+  },
+  {
+    "url": "/regulations/#3d1a",
+    "content_html": "Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.",
+    "class": "regulation",
+    "id": "3d1a"
+  },
+  {
+    "url": "/regulations/#3d1b",
+    "content_html": "Color blind competitors who cannot distinguish between the necessary number of colors may use colored parts with patterns, if it has been explicitly approved according to <a href=\"https://www.worldcubeassociation.org/regulations/#2s\">Regulation 2s</a>. Patterns may come from stickers or be drawn.",
+    "class": "regulation",
+    "id": "3d1b"
+  },
+  {
+    "url": "/regulations/#3d2",
+    "content_html": "The colors of the colored parts must be solid, with one uniform color per face. Each color must be clearly distinct from the other colors.",
+    "class": "regulation",
+    "id": "3d2"
+  },
+  {
+    "url": "/regulations/#3d3",
+    "content_html": "If the colored parts are tiles or stickers, they must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "3d3"
+  },
+  {
+    "url": "/regulations/#3h",
+    "content_html": "Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.",
+    "class": "regulation",
+    "id": "3h"
+  },
+  {
+    "url": "/regulations/#3h1",
+    "content_html": "&quot;Pillowed&quot; puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.",
+    "class": "regulation",
+    "id": "3h1"
+  },
+  {
+    "url": "/regulations/#3h2",
+    "content_html": "Puzzles whose colored plastic is visible inside the puzzle (e.g. &quot;stickerless&quot; puzzles) are permitted. This does not include the following puzzles:",
+    "class": "regulation",
+    "id": "3h2"
+  },
+  {
+    "url": "/regulations/#3h2a",
+    "content_html": "Puzzles with transparent parts. Exception: An overlay sticker (see <a href=\"https://www.worldcubeassociation.org/regulations/#3l\">Regulation 3l</a>).",
+    "class": "regulation",
+    "id": "3h2a"
+  },
+  {
+    "url": "/regulations/#3h3",
+    "content_html": "Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.",
+    "class": "regulation",
+    "id": "3h3"
+  },
+  {
+    "url": "/regulations/#3h4",
+    "content_html": "For Clock, custom &quot;inserts&quot; (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.",
+    "class": "regulation",
+    "id": "3h4"
+  },
+  {
+    "url": "/regulations/#3j",
+    "content_html": "Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see <a href=\"https://www.worldcubeassociation.org/regulations/#3l\">Regulation 3l</a>).",
+    "class": "regulation",
+    "id": "3j"
+  },
+  {
+    "url": "/regulations/#3j1",
+    "content_html": "Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "3j1"
+  },
+  {
+    "url": "/regulations/#3j2",
+    "content_html": "Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.",
+    "class": "regulation",
+    "id": "3j2"
+  },
+  {
+    "url": "/regulations/#3j3",
+    "content_html": "Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.",
+    "class": "regulation",
+    "id": "3j3"
+  },
+  {
+    "url": "/regulations/#3k",
+    "content_html": "Puzzles must be approved by the WCA Delegate before use in the competition.",
+    "class": "regulation",
+    "id": "3k"
+  },
+  {
+    "url": "/regulations/#3l",
+    "content_html": "A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo.",
+    "class": "regulation",
+    "id": "3l"
+  },
+  {
+    "url": "/regulations/#3l1",
+    "content_html": "The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:",
+    "class": "regulation",
+    "id": "3l1"
+  },
+  {
+    "url": "/regulations/#3l1a",
+    "content_html": "For Pyraminx and 2x2x2, the logo may be on any piece.",
+    "class": "regulation",
+    "id": "3l1a"
+  },
+  {
+    "url": "/regulations/#3l1b",
+    "content_html": "For Square-1, the logo must be on a piece in the equatorial slice.",
+    "class": "regulation",
+    "id": "3l1b"
+  },
+  {
+    "url": "/regulations/#3l2",
+    "content_html": "The logo may be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).",
+    "class": "regulation",
+    "id": "3l2"
+  },
+  {
+    "url": "/regulations/#3m",
+    "content_html": "All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.",
+    "class": "regulation",
+    "id": "3m"
+  },
+  {
+    "url": "/regulations/#4a",
+    "content_html": "A scrambler applies scramble sequences to the puzzles.",
+    "class": "regulation",
+    "id": "4a"
+  },
+  {
+    "url": "/regulations/#4b",
+    "content_html": "Puzzles must be scrambled using computer-generated random scramble sequences.",
+    "class": "regulation",
+    "id": "4b"
+  },
+  {
+    "url": "/regulations/#4b1",
+    "content_html": "Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.",
+    "class": "regulation",
+    "id": "4b1"
+  },
+  {
+    "url": "/regulations/#4b2",
+    "content_html": "Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see <a href=\"https://www.worldcubeassociation.org/regulations/#E\">Article E</a>).",
+    "class": "regulation",
+    "id": "4b2"
+  },
+  {
+    "url": "/regulations/#4b3",
+    "content_html": "Specification for the scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:",
+    "class": "regulation",
+    "id": "4b3"
+  },
+  {
+    "url": "/regulations/#4b3a",
+    "content_html": "For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).",
+    "class": "regulation",
+    "id": "4b3a"
+  },
+  {
+    "url": "/regulations/#4b3b",
+    "content_html": "2x2x2 Cube: The (random) state must require at least 4 moves to solve.",
+    "class": "regulation",
+    "id": "4b3b"
+  },
+  {
+    "url": "/regulations/#4b3c",
+    "content_html": "Skewb: The (random) state must require at least 7 moves to solve.",
+    "class": "regulation",
+    "id": "4b3c"
+  },
+  {
+    "url": "/regulations/#4b3d",
+    "content_html": "Square-1: The (random) state must require at least 11 moves to solve.",
+    "class": "regulation",
+    "id": "4b3d"
+  },
+  {
+    "url": "/regulations/#4b3e",
+    "content_html": "5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.",
+    "class": "regulation",
+    "id": "4b3e"
+  },
+  {
+    "url": "/regulations/#4b3f",
+    "content_html": "Pyraminx: The (random) state must require at least 6 moves to solve.",
+    "class": "regulation",
+    "id": "4b3f"
+  },
+  {
+    "url": "/regulations/#4b4",
+    "content_html": "Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.",
+    "class": "regulation",
+    "id": "4b4"
+  },
+  {
+    "url": "/regulations/#4d",
+    "content_html": "Scrambling orientation:",
+    "class": "regulation",
+    "id": "4d"
+  },
+  {
+    "url": "/regulations/#4d1",
+    "content_html": "NxNxN puzzles and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.",
+    "class": "regulation",
+    "id": "4d1"
+  },
+  {
+    "url": "/regulations/#4d2",
+    "content_html": "Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.",
+    "class": "regulation",
+    "id": "4d2"
+  },
+  {
+    "url": "/regulations/#4d3",
+    "content_html": "Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).",
+    "class": "regulation",
+    "id": "4d3"
+  },
+  {
+    "url": "/regulations/#4d4",
+    "content_html": "Clock is scrambled starting with either side in front and 12 o'clock pointing up.",
+    "class": "regulation",
+    "id": "4d4"
+  },
+  {
+    "url": "/regulations/#4d5",
+    "content_html": "Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.",
+    "class": "regulation",
+    "id": "4d5"
+  },
+  {
+    "url": "/regulations/#4f",
+    "content_html": "Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available <a href=\"https://www.worldcubeassociation.org/regulations/scrambles/\">via the WCA website</a>).",
+    "class": "regulation",
+    "id": "4f"
+  },
+  {
+    "url": "/regulations/#4g",
+    "content_html": "After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).",
+    "class": "regulation",
+    "id": "4g"
+  },
+  {
+    "url": "/regulations/#4g1",
+    "content_html": "Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "4g1"
+  },
+  {
+    "url": "/regulations/#5a",
+    "content_html": "Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.",
+    "class": "regulation",
+    "id": "5a"
+  },
+  {
+    "url": "/regulations/#5b",
+    "content_html": "If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.",
+    "class": "regulation",
+    "id": "5b"
+  },
+  {
+    "url": "/regulations/#5b1",
+    "content_html": "If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "5b1"
+  },
+  {
+    "url": "/regulations/#5b2",
+    "content_html": "Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "5b2"
+  },
+  {
+    "url": "/regulations/#5b3",
+    "content_html": "Permitted repairs:",
+    "class": "regulation",
+    "id": "5b3"
+  },
+  {
+    "url": "/regulations/#5b3a",
+    "content_html": "If any parts have fallen out or moved out of place, the competitor may place them back.",
+    "class": "regulation",
+    "id": "5b3a"
+  },
+  {
+    "url": "/regulations/#5b3b",
+    "content_html": "If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.",
+    "class": "regulation",
+    "id": "5b3b"
+  },
+  {
+    "url": "/regulations/#5b3c",
+    "content_html": "If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.",
+    "class": "regulation",
+    "id": "5b3c"
+  },
+  {
+    "url": "/regulations/#5b4",
+    "content_html": "During a blindfolded phase (see <a href=\"https://www.worldcubeassociation.org/regulations/#b4\">Regulation B4</a>), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "5b4"
+  },
+  {
+    "url": "/regulations/#5b5",
+    "content_html": "If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:",
+    "class": "regulation",
+    "id": "5b5"
+  },
+  {
+    "url": "/regulations/#5b5a",
+    "content_html": "If one or more parts without colored faces is affected, the puzzle is considered solved.",
+    "class": "regulation",
+    "id": "5b5a"
+  },
+  {
+    "url": "/regulations/#5b5b",
+    "content_html": "If one part with one colored face is affected, the puzzle is considered solved.",
+    "class": "regulation",
+    "id": "5b5b"
+  },
+  {
+    "url": "/regulations/#5b5c",
+    "content_html": "If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).",
+    "class": "regulation",
+    "id": "5b5c"
+  },
+  {
+    "url": "/regulations/#5b5d",
+    "content_html": "If one or more parts with more than one colored face is affected, the puzzle is considered unsolved (DNF).",
+    "class": "regulation",
+    "id": "5b5d"
+  },
+  {
+    "url": "/regulations/#5b5e",
+    "content_html": "Regulations <a href=\"https://www.worldcubeassociation.org/regulations/#5b5c\">5b5c</a> and <a href=\"https://www.worldcubeassociation.org/regulations/#5b5d\">5b5d</a> supersede <a href=\"https://www.worldcubeassociation.org/regulations/#5b5a\">5b5a</a> and <a href=\"https://www.worldcubeassociation.org/regulations/#5b5b\">5b5b</a>.",
+    "class": "regulation",
+    "id": "5b5e"
+  },
+  {
+    "url": "/regulations/#7b",
+    "content_html": "Spectators must remain at least 1.5 meters away from the solving stations when they are in use.",
+    "class": "regulation",
+    "id": "7b"
+  },
+  {
+    "url": "/regulations/#7c",
+    "content_html": "Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colors on the puzzles.",
+    "class": "regulation",
+    "id": "7c"
+  },
+  {
+    "url": "/regulations/#7e",
+    "content_html": "The competition area must be smoke-free.",
+    "class": "regulation",
+    "id": "7e"
+  },
+  {
+    "url": "/regulations/#7f",
+    "content_html": "Solving station:",
+    "class": "regulation",
+    "id": "7f"
+  },
+  {
+    "url": "/regulations/#7f1",
+    "content_html": "Definitions:",
+    "class": "regulation",
+    "id": "7f1"
+  },
+  {
+    "url": "/regulations/#7f1a",
+    "content_html": "Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat.",
+    "class": "regulation",
+    "id": "7f1a"
+  },
+  {
+    "url": "/regulations/#7f1b",
+    "content_html": "Mat: The mat of the Stackmat.",
+    "class": "regulation",
+    "id": "7f1b"
+  },
+  {
+    "url": "/regulations/#7f1c",
+    "content_html": "Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).",
+    "class": "regulation",
+    "id": "7f1c"
+  },
+  {
+    "url": "/regulations/#7f1d",
+    "content_html": "Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.",
+    "class": "regulation",
+    "id": "7f1d"
+  },
+  {
+    "url": "/regulations/#7f2",
+    "content_html": "The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.",
+    "class": "regulation",
+    "id": "7f2"
+  },
+  {
+    "url": "/regulations/#7f2a",
+    "content_html": "Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.",
+    "class": "regulation",
+    "id": "7f2a"
+  },
+  {
+    "url": "/regulations/#7h",
+    "content_html": "The competition area must have a Competitors Area.",
+    "class": "regulation",
+    "id": "7h"
+  },
+  {
+    "url": "/regulations/#7h1",
+    "content_html": "The organization team may require that a competitor who has been called to compete must remain within the Competitors Area until the competitor has finished all attempts for the round.",
+    "class": "regulation",
+    "id": "7h1"
+  },
+  {
+    "url": "/regulations/#8a",
+    "content_html": "An official WCA competition must:",
+    "class": "regulation",
+    "id": "8a"
+  },
+  {
+    "url": "/regulations/#8a1",
+    "content_html": "Be approved by the WCA Board.",
+    "class": "regulation",
+    "id": "8a1"
+  },
+  {
+    "url": "/regulations/#8a2",
+    "content_html": "Follow the WCA Regulations.",
+    "class": "regulation",
+    "id": "8a2"
+  },
+  {
+    "url": "/regulations/#8a3",
+    "content_html": "Have a designated WCA Delegate in attendance.",
+    "class": "regulation",
+    "id": "8a3"
+  },
+  {
+    "url": "/regulations/#8a4",
+    "content_html": "Be announced on the WCA website at least two weeks before the start of the competition.",
+    "class": "regulation",
+    "id": "8a4"
+  },
+  {
+    "url": "/regulations/#8a6",
+    "content_html": "Be publicly accessible.",
+    "class": "regulation",
+    "id": "8a6"
+  },
+  {
+    "url": "/regulations/#8a7",
+    "content_html": "Use the authentic Speed Stacks Stackmat timer (Generation 2, Generation 3 Pro Timer, or Generation 4 Pro Timer) for time measurement.",
+    "class": "regulation",
+    "id": "8a7"
+  },
+  {
+    "url": "/regulations/#8a8",
+    "content_html": "Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.",
+    "class": "regulation",
+    "id": "8a8"
+  },
+  {
+    "url": "/regulations/#8f",
+    "content_html": "If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Board.",
+    "class": "regulation",
+    "id": "8f"
+  },
+  {
+    "url": "/regulations/#9a",
+    "content_html": "The WCA governs competitions for:",
+    "class": "regulation",
+    "id": "9a"
+  },
+  {
+    "url": "/regulations/#9a1",
+    "content_html": "Puzzles known as Rubik's puzzles.",
+    "class": "regulation",
+    "id": "9a1"
+  },
+  {
+    "url": "/regulations/#9a2",
+    "content_html": "Other puzzles that are manipulated by twisting the sides, commonly known as &quot;twisty puzzles&quot;.",
+    "class": "regulation",
+    "id": "9a2"
+  },
+  {
+    "url": "/regulations/#9b",
+    "content_html": "The official puzzles and event formats of the WCA are:",
+    "class": "regulation",
+    "id": "9b"
+  },
+  {
+    "url": "/regulations/#9b1",
+    "content_html": "Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, Skewb, and Rubik's Cube: One-Handed.",
+    "class": "regulation",
+    "id": "9b1"
+  },
+  {
+    "url": "/regulations/#9b1a",
+    "content_html": "Round formats for these events are: &quot;Best of X&quot; (where X is 1, 2, or 3), and &quot;Average of 5&quot;.",
+    "class": "regulation",
+    "id": "9b1a"
+  },
+  {
+    "url": "/regulations/#9b2",
+    "content_html": "Rubik's Cube: With Feet, Rubik's Cube: Fewest Moves, 6x6x6 Cube, and 7x7x7 Cube.",
+    "class": "regulation",
+    "id": "9b2"
+  },
+  {
+    "url": "/regulations/#9b2a",
+    "content_html": "Round formats for these events are: &quot;Best of X&quot; (where X is 1 or 2) and &quot;Mean of 3&quot;.",
+    "class": "regulation",
+    "id": "9b2a"
+  },
+  {
+    "url": "/regulations/#9b3",
+    "content_html": "Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.",
+    "class": "regulation",
+    "id": "9b3"
+  },
+  {
+    "url": "/regulations/#9b3a",
+    "content_html": "Round formats for these events are: &quot;Best of X&quot; (where X is 1, 2, or 3).",
+    "class": "regulation",
+    "id": "9b3a"
+  },
+  {
+    "url": "/regulations/#9b3b",
+    "content_html": "For Rubik's Cube: Blindfolded, the WCA also recognizes &quot;Mean of 3&quot; rankings and records based on the times from &quot;Best of 3&quot; rounds.",
+    "class": "regulation",
+    "id": "9b3b"
+  },
+  {
+    "url": "/regulations/#9f",
+    "content_html": "The results of a round are measured as follows:",
+    "class": "regulation",
+    "id": "9f"
+  },
+  {
+    "url": "/regulations/#9f1",
+    "content_html": "All timed results under 10 minutes are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.",
+    "class": "regulation",
+    "id": "9f1"
+  },
+  {
+    "url": "/regulations/#9f2",
+    "content_html": "All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).",
+    "class": "regulation",
+    "id": "9f2"
+  },
+  {
+    "url": "/regulations/#9f4",
+    "content_html": "The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.",
+    "class": "regulation",
+    "id": "9f4"
+  },
+  {
+    "url": "/regulations/#9f5",
+    "content_html": "The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.",
+    "class": "regulation",
+    "id": "9f5"
+  },
+  {
+    "url": "/regulations/#9f6",
+    "content_html": "For &quot;Best of X&quot; rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.",
+    "class": "regulation",
+    "id": "9f6"
+  },
+  {
+    "url": "/regulations/#9f7",
+    "content_html": "For &quot;Best of X&quot; rounds, a DNF or DNS is the worst possible result.",
+    "class": "regulation",
+    "id": "9f7"
+  },
+  {
+    "url": "/regulations/#9f8",
+    "content_html": "For &quot;Average of 5&quot; rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.",
+    "class": "regulation",
+    "id": "9f8"
+  },
+  {
+    "url": "/regulations/#9f9",
+    "content_html": "For &quot;Average of 5&quot; rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.",
+    "class": "regulation",
+    "id": "9f9"
+  },
+  {
+    "url": "/regulations/#9f10",
+    "content_html": "For &quot;Mean of 3&quot; rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.",
+    "class": "regulation",
+    "id": "9f10"
+  },
+  {
+    "url": "/regulations/#9f11",
+    "content_html": "For &quot;Mean of 3&quot; rounds, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.",
+    "class": "regulation",
+    "id": "9f11"
+  },
+  {
+    "url": "/regulations/#9f12",
+    "content_html": "For &quot;Best of X&quot; rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:",
+    "class": "regulation",
+    "id": "9f12"
+  },
+  {
+    "url": "/regulations/#9f12a",
+    "content_html": "For timed results, &quot;better&quot; is defined as the shorter time.",
+    "class": "regulation",
+    "id": "9f12a"
+  },
+  {
+    "url": "/regulations/#9f12b",
+    "content_html": "For Fewest Moves Solving, &quot;better&quot; is defined as the shorter solution length.",
+    "class": "regulation",
+    "id": "9f12b"
+  },
+  {
+    "url": "/regulations/#9f12c",
+    "content_html": "For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.",
+    "class": "regulation",
+    "id": "9f12c"
+  },
+  {
+    "url": "/regulations/#9f13",
+    "content_html": "For &quot;Mean of 3&quot; and &quot;Average of 5&quot; rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where &quot;better&quot; is the shorter recorded time.",
+    "class": "regulation",
+    "id": "9f13"
+  },
+  {
+    "url": "/regulations/#9f14",
+    "content_html": "For &quot;Mean of 3&quot; and &quot;Average of 5&quot; rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where &quot;better&quot; is defined as the shorter time.",
+    "class": "regulation",
+    "id": "9f14"
+  },
+  {
+    "url": "/regulations/#9f15",
+    "content_html": "Competitors who achieve the same result in a round receive an identical ranking for the round.",
+    "class": "regulation",
+    "id": "9f15"
+  },
+  {
+    "url": "/regulations/#9g",
+    "content_html": "A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.",
+    "class": "regulation",
+    "id": "9g"
+  },
+  {
+    "url": "/regulations/#9g2",
+    "content_html": "Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.",
+    "class": "regulation",
+    "id": "9g2"
+  },
+  {
+    "url": "/regulations/#9i",
+    "content_html": "Results of official WCA competitions must be listed on the WCA world rankings.",
+    "class": "regulation",
+    "id": "9i"
+  },
+  {
+    "url": "/regulations/#9i1",
+    "content_html": "The WCA recognizes the following types of regional records: national records, continental records, and world records.",
+    "class": "regulation",
+    "id": "9i1"
+  },
+  {
+    "url": "/regulations/#9i2",
+    "content_html": "All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.",
+    "class": "regulation",
+    "id": "9i2"
+  },
+  {
+    "url": "/regulations/#9i3",
+    "content_html": "If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.",
+    "class": "regulation",
+    "id": "9i3"
+  },
+  {
+    "url": "/regulations/#9j",
+    "content_html": "Each event must be held at most once per competition.",
+    "class": "regulation",
+    "id": "9j"
+  },
+  {
+    "url": "/regulations/#9k",
+    "content_html": "All competitors may participate in all events of a competition, except in cases specifically approved by the Board.",
+    "class": "regulation",
+    "id": "9k"
+  },
+  {
+    "url": "/regulations/#9l",
+    "content_html": "Each round must be completed before any following round of the same event starts.",
+    "class": "regulation",
+    "id": "9l"
+  },
+  {
+    "url": "/regulations/#9m",
+    "content_html": "Events must have at most four rounds.",
+    "class": "regulation",
+    "id": "9m"
+  },
+  {
+    "url": "/regulations/#9m1",
+    "content_html": "Rounds with 99 or fewer competitors must have at most two subsequent rounds.",
+    "class": "regulation",
+    "id": "9m1"
+  },
+  {
+    "url": "/regulations/#9m2",
+    "content_html": "Rounds with 15 or fewer competitors must have at most one subsequent round.",
+    "class": "regulation",
+    "id": "9m2"
+  },
+  {
+    "url": "/regulations/#9m3",
+    "content_html": "Rounds with 7 or fewer competitors must not have subsequent rounds.",
+    "class": "regulation",
+    "id": "9m3"
+  },
+  {
+    "url": "/regulations/#9o",
+    "content_html": "Combined rounds count as one round when counting the number of rounds per event.",
+    "class": "regulation",
+    "id": "9o"
+  },
+  {
+    "url": "/regulations/#9p",
+    "content_html": "If an event has multiple rounds, then:",
+    "class": "regulation",
+    "id": "9p"
+  },
+  {
+    "url": "/regulations/#9p1",
+    "content_html": "At least 25% of competitors must be eliminated between consecutive rounds of the same event.",
+    "class": "regulation",
+    "id": "9p1"
+  },
+  {
+    "url": "/regulations/#9p2",
+    "content_html": "The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.",
+    "class": "regulation",
+    "id": "9p2"
+  },
+  {
+    "url": "/regulations/#9p3",
+    "content_html": "If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked competitor below the cutoff from the preceding round.",
+    "class": "regulation",
+    "id": "9p3"
+  },
+  {
+    "url": "/regulations/#9s",
+    "content_html": "Each round of each event must have a time limit (see <a href=\"https://www.worldcubeassociation.org/regulations/#A1a\">Regulation A1a</a>).",
+    "class": "regulation",
+    "id": "9s"
+  },
+  {
+    "url": "/regulations/#10b",
+    "content_html": "Only the resting state of the puzzle, after the timer has been stopped, is considered.",
+    "class": "regulation",
+    "id": "10b"
+  },
+  {
+    "url": "/regulations/#10c",
+    "content_html": "The puzzle may be in any orientation at the end of the attempt.",
+    "class": "regulation",
+    "id": "10c"
+  },
+  {
+    "url": "/regulations/#10d",
+    "content_html": "All parts of a puzzle must be fully attached to the puzzle in their required positions. Exception: see <a href=\"https://www.worldcubeassociation.org/regulations/#5b5\">Regulation 5b5</a>.",
+    "class": "regulation",
+    "id": "10d"
+  },
+  {
+    "url": "/regulations/#10e",
+    "content_html": "A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:",
+    "class": "regulation",
+    "id": "10e"
+  },
+  {
+    "url": "/regulations/#10e1",
+    "content_html": "For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in <a href=\"https://www.worldcubeassociation.org/regulations/#10f\">Regulation 10f</a>, the puzzle is considered to require one additional move to solve (see &quot;Outer Block Turn Metric&quot; in <a href=\"https://www.worldcubeassociation.org/regulations/#12\">Article 12</a>).",
+    "class": "regulation",
+    "id": "10e1"
+  },
+  {
+    "url": "/regulations/#10e2",
+    "content_html": "If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.",
+    "class": "regulation",
+    "id": "10e2"
+  },
+  {
+    "url": "/regulations/#10e3",
+    "content_html": "If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "10e3"
+  },
+  {
+    "url": "/regulations/#10e4",
+    "content_html": "If more than one move is required, the puzzle is considered unsolved (DNF).",
+    "class": "regulation",
+    "id": "10e4"
+  },
+  {
+    "url": "/regulations/#10f",
+    "content_html": "Limits of acceptable misalignment for puzzles:",
+    "class": "regulation",
+    "id": "10f"
+  },
+  {
+    "url": "/regulations/#10f1",
+    "content_html": "NxNxN puzzles: at most 45 degrees.",
+    "class": "regulation",
+    "id": "10f1"
+  },
+  {
+    "url": "/regulations/#10f2",
+    "content_html": "Megaminx: at most 36 degrees.",
+    "class": "regulation",
+    "id": "10f2"
+  },
+  {
+    "url": "/regulations/#10f3",
+    "content_html": "Pyraminx and Skewb: at most 60 degrees.",
+    "class": "regulation",
+    "id": "10f3"
+  },
+  {
+    "url": "/regulations/#10f4",
+    "content_html": "Square-1: at most 45 degrees (U/D) or 90 degrees (/).",
+    "class": "regulation",
+    "id": "10f4"
+  },
+  {
+    "url": "/regulations/#10h",
+    "content_html": "Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle.",
+    "class": "regulation",
+    "id": "10h"
+  },
+  {
+    "url": "/regulations/#10h1",
+    "content_html": "The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.",
+    "class": "regulation",
+    "id": "10h1"
+  },
+  {
+    "url": "/regulations/#11a",
+    "content_html": "Incidents include:",
+    "class": "regulation",
+    "id": "11a"
+  },
+  {
+    "url": "/regulations/#11a1",
+    "content_html": "Incorrect execution of event procedures, by officials or competitors.",
+    "class": "regulation",
+    "id": "11a1"
+  },
+  {
+    "url": "/regulations/#11a2",
+    "content_html": "Interference or facility interruptions (e.g. power failure, emergency alarm activation).",
+    "class": "regulation",
+    "id": "11a2"
+  },
+  {
+    "url": "/regulations/#11a3",
+    "content_html": "Equipment malfunction.",
+    "class": "regulation",
+    "id": "11a3"
+  },
+  {
+    "url": "/regulations/#11b",
+    "content_html": "If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.",
+    "class": "regulation",
+    "id": "11b"
+  },
+  {
+    "url": "/regulations/#11d",
+    "content_html": "If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see <a href=\"https://www.worldcubeassociation.org/regulations/#11e3\">Regulation 11e3</a>).",
+    "class": "regulation",
+    "id": "11d"
+  },
+  {
+    "url": "/regulations/#11e",
+    "content_html": "If an incident occurs during an attempt, the WCA Delegate may grant a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.",
+    "class": "regulation",
+    "id": "11e"
+  },
+  {
+    "url": "/regulations/#11e1",
+    "content_html": "If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see <a href=\"https://www.worldcubeassociation.org/regulations/#4f\">Regulation 4f</a>).",
+    "class": "regulation",
+    "id": "11e1"
+  },
+  {
+    "url": "/regulations/#11e2",
+    "content_html": "If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.",
+    "class": "regulation",
+    "id": "11e2"
+  },
+  {
+    "url": "/regulations/#11e3",
+    "content_html": "If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a provisional extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WRC).",
+    "class": "regulation",
+    "id": "11e3"
+  },
+  {
+    "url": "/regulations/#11f",
+    "content_html": "Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "11f"
+  },
+  {
+    "url": "/regulations/#12a",
+    "content_html": "Notation for all NxNxN puzzles:",
+    "class": "regulation",
+    "id": "12a"
+  },
+  {
+    "url": "/regulations/#12a1",
+    "content_html": "Face Moves:",
+    "class": "regulation",
+    "id": "12a1"
+  },
+  {
+    "url": "/regulations/#12a1a",
+    "content_html": "Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).",
+    "class": "regulation",
+    "id": "12a1a"
+  },
+  {
+    "url": "/regulations/#12a1b",
+    "content_html": "Counter-clockwise, 90 degrees: F', B', R', L', U', D'.",
+    "class": "regulation",
+    "id": "12a1b"
+  },
+  {
+    "url": "/regulations/#12a1c",
+    "content_html": "180 degrees: F2, B2, R2, L2, U2, D2.",
+    "class": "regulation",
+    "id": "12a1c"
+  },
+  {
+    "url": "/regulations/#12a2",
+    "content_html": "Outer Block Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):",
+    "class": "regulation",
+    "id": "12a2"
+  },
+  {
+    "url": "/regulations/#12a2a",
+    "content_html": "Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.",
+    "class": "regulation",
+    "id": "12a2a"
+  },
+  {
+    "url": "/regulations/#12a2b",
+    "content_html": "Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.",
+    "class": "regulation",
+    "id": "12a2b"
+  },
+  {
+    "url": "/regulations/#12a2c",
+    "content_html": "180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.",
+    "class": "regulation",
+    "id": "12a2c"
+  },
+  {
+    "url": "/regulations/#12a3",
+    "content_html": "Outer Block Turn Metric (OBTM) is defined as:",
+    "class": "regulation",
+    "id": "12a3"
+  },
+  {
+    "url": "/regulations/#12a3a",
+    "content_html": "Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.",
+    "class": "regulation",
+    "id": "12a3a"
+  },
+  {
+    "url": "/regulations/#12a3b",
+    "content_html": "Each rotation is counted as 0 moves.",
+    "class": "regulation",
+    "id": "12a3b"
+  },
+  {
+    "url": "/regulations/#12b",
+    "content_html": "Rotations for all NxNxN puzzles:",
+    "class": "regulation",
+    "id": "12b"
+  },
+  {
+    "url": "/regulations/#12b1",
+    "content_html": "Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.",
+    "class": "regulation",
+    "id": "12b1"
+  },
+  {
+    "url": "/regulations/#12b2",
+    "content_html": "Counter-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.",
+    "class": "regulation",
+    "id": "12b2"
+  },
+  {
+    "url": "/regulations/#12b3",
+    "content_html": "180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.",
+    "class": "regulation",
+    "id": "12b3"
+  },
+  {
+    "url": "/regulations/#12c",
+    "content_html": "Notation for Square-1:",
+    "class": "regulation",
+    "id": "12c"
+  },
+  {
+    "url": "/regulations/#12c1",
+    "content_html": "Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.",
+    "class": "regulation",
+    "id": "12c1"
+  },
+  {
+    "url": "/regulations/#12c2",
+    "content_html": "(x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.",
+    "class": "regulation",
+    "id": "12c2"
+  },
+  {
+    "url": "/regulations/#12c3",
+    "content_html": "&quot;/&quot; means: turn the right half of the puzzle 180 degrees.",
+    "class": "regulation",
+    "id": "12c3"
+  },
+  {
+    "url": "/regulations/#12d",
+    "content_html": "Notation for Megaminx (scrambling notation only):",
+    "class": "regulation",
+    "id": "12d"
+  },
+  {
+    "url": "/regulations/#12d1",
+    "content_html": "Face Moves:",
+    "class": "regulation",
+    "id": "12d1"
+  },
+  {
+    "url": "/regulations/#12d1a",
+    "content_html": "Clockwise, 72 degrees: U (upper face).",
+    "class": "regulation",
+    "id": "12d1a"
+  },
+  {
+    "url": "/regulations/#12d1b",
+    "content_html": "Counter-clockwise, 72 degrees: U' (upper face).",
+    "class": "regulation",
+    "id": "12d1b"
+  },
+  {
+    "url": "/regulations/#12d2",
+    "content_html": "Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:",
+    "class": "regulation",
+    "id": "12d2"
+  },
+  {
+    "url": "/regulations/#12d2c",
+    "content_html": "Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).",
+    "class": "regulation",
+    "id": "12d2c"
+  },
+  {
+    "url": "/regulations/#12d2d",
+    "content_html": "Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).",
+    "class": "regulation",
+    "id": "12d2d"
+  },
+  {
+    "url": "/regulations/#12e",
+    "content_html": "Notation for Pyraminx:",
+    "class": "regulation",
+    "id": "12e"
+  },
+  {
+    "url": "/regulations/#12e1",
+    "content_html": "The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.",
+    "class": "regulation",
+    "id": "12e1"
+  },
+  {
+    "url": "/regulations/#12e2",
+    "content_html": "Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).",
+    "class": "regulation",
+    "id": "12e2"
+  },
+  {
+    "url": "/regulations/#12e3",
+    "content_html": "Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).",
+    "class": "regulation",
+    "id": "12e3"
+  },
+  {
+    "url": "/regulations/#12g",
+    "content_html": "Notation for Clock:",
+    "class": "regulation",
+    "id": "12g"
+  },
+  {
+    "url": "/regulations/#12g1",
+    "content_html": "The puzzle is oriented with 12 o'clock on top, and either side in front.",
+    "class": "regulation",
+    "id": "12g1"
+  },
+  {
+    "url": "/regulations/#12g2",
+    "content_html": "Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).",
+    "class": "regulation",
+    "id": "12g2"
+  },
+  {
+    "url": "/regulations/#12g3",
+    "content_html": "Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter-clockwise turns).",
+    "class": "regulation",
+    "id": "12g3"
+  },
+  {
+    "url": "/regulations/#12g4",
+    "content_html": "Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.",
+    "class": "regulation",
+    "id": "12g4"
+  },
+  {
+    "url": "/regulations/#12h",
+    "content_html": "Notation for Skewb:",
+    "class": "regulation",
+    "id": "12h"
+  },
+  {
+    "url": "/regulations/#12h1",
+    "content_html": "The puzzle is oriented with three faces fully visible, where the upper face is on top.",
+    "class": "regulation",
+    "id": "12h1"
+  },
+  {
+    "url": "/regulations/#12h2",
+    "content_html": "Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).",
+    "class": "regulation",
+    "id": "12h2"
+  },
+  {
+    "url": "/regulations/#12h3",
+    "content_html": "Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).",
+    "class": "regulation",
+    "id": "12h3"
+  },
+  {
+    "url": "/regulations/#A1",
+    "content_html": "Speed Solving attempts must abide by the following procedures.",
+    "class": "regulation",
+    "id": "A1"
+  },
+  {
+    "url": "/regulations/#A1a",
+    "content_html": "The organization team must enforce time limits for attempts and/or rounds.",
+    "class": "regulation",
+    "id": "A1a"
+  },
+  {
+    "url": "/regulations/#A1a1",
+    "content_html": "The default time limit per solve is 10 minutes, though the organization team may announce a higher or lower time limit.",
+    "class": "regulation",
+    "id": "A1a1"
+  },
+  {
+    "url": "/regulations/#A1a2",
+    "content_html": "Cumulative time limits may be enforced (e.g. 3 results with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.",
+    "class": "regulation",
+    "id": "A1a2"
+  },
+  {
+    "url": "/regulations/#A1a3",
+    "content_html": "For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.",
+    "class": "regulation",
+    "id": "A1a3"
+  },
+  {
+    "url": "/regulations/#A1a4",
+    "content_html": "The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the attempt immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see <a href=\"https://www.worldcubeassociation.org/regulations/#H1b1\">Regulation H1b1</a>).",
+    "class": "regulation",
+    "id": "A1a4"
+  },
+  {
+    "url": "/regulations/#A1a5",
+    "content_html": "A solve is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see <a href=\"https://www.worldcubeassociation.org/regulations/#H1b1\">Regulation H1b1</a>).",
+    "class": "regulation",
+    "id": "A1a5"
+  },
+  {
+    "url": "/regulations/#A1b",
+    "content_html": "If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.",
+    "class": "regulation",
+    "id": "A1b"
+  },
+  {
+    "url": "/regulations/#A1b1",
+    "content_html": "For events with inspection, a Stackmat must be used in addition to the stopwatch. For events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.",
+    "class": "regulation",
+    "id": "A1b1"
+  },
+  {
+    "url": "/regulations/#A1b2",
+    "content_html": "If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.",
+    "class": "regulation",
+    "id": "A1b2"
+  },
+  {
+    "url": "/regulations/#A1c",
+    "content_html": "A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see <a href=\"https://www.worldcubeassociation.org/regulations/#2j\">Regulation 2j</a>), at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "A1c"
+  },
+  {
+    "url": "/regulations/#A2",
+    "content_html": "Scrambling:",
+    "class": "regulation",
+    "id": "A2"
+  },
+  {
+    "url": "/regulations/#A2a",
+    "content_html": "When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.",
+    "class": "regulation",
+    "id": "A2a"
+  },
+  {
+    "url": "/regulations/#A2b",
+    "content_html": "A scrambler scrambles the puzzle according to the regulations in <a href=\"https://www.worldcubeassociation.org/regulations/#4\">Article 4</a>.",
+    "class": "regulation",
+    "id": "A2b"
+  },
+  {
+    "url": "/regulations/#A2b1",
+    "content_html": "For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.",
+    "class": "regulation",
+    "id": "A2b1"
+  },
+  {
+    "url": "/regulations/#A2c",
+    "content_html": "After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.",
+    "class": "regulation",
+    "id": "A2c"
+  },
+  {
+    "url": "/regulations/#A2c1",
+    "content_html": "The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.",
+    "class": "regulation",
+    "id": "A2c1"
+  },
+  {
+    "url": "/regulations/#A2d",
+    "content_html": "When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.",
+    "class": "regulation",
+    "id": "A2d"
+  },
+  {
+    "url": "/regulations/#A2d1",
+    "content_html": "The organization team may require scramblers to take additional measures to make sure that they have applied the correct scramble sequence (e.g. signing the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image, or using an additional person as &quot;scramble checker&quot;).",
+    "class": "regulation",
+    "id": "A2d1"
+  },
+  {
+    "url": "/regulations/#A2e",
+    "content_html": "The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.",
+    "class": "regulation",
+    "id": "A2e"
+  },
+  {
+    "url": "/regulations/#A2e1",
+    "content_html": "The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.",
+    "class": "regulation",
+    "id": "A2e1"
+  },
+  {
+    "url": "/regulations/#A3",
+    "content_html": "Inspection:",
+    "class": "regulation",
+    "id": "A3"
+  },
+  {
+    "url": "/regulations/#A3a",
+    "content_html": "The competitor may inspect the puzzle at the start of each attempt.",
+    "class": "regulation",
+    "id": "A3a"
+  },
+  {
+    "url": "/regulations/#A3a1",
+    "content_html": "The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.",
+    "class": "regulation",
+    "id": "A3a1"
+  },
+  {
+    "url": "/regulations/#A3b",
+    "content_html": "The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection.",
+    "class": "regulation",
+    "id": "A3b"
+  },
+  {
+    "url": "/regulations/#A3b1",
+    "content_html": "When the judge believes the competitor is ready, the judge asks &quot;READY?&quot;. The competitor must be ready to start the attempt within one minute of being called, else the competitor forfeits the attempt (DNS), at the discretion of the judge.",
+    "class": "regulation",
+    "id": "A3b1"
+  },
+  {
+    "url": "/regulations/#A3b2",
+    "content_html": "The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.",
+    "class": "regulation",
+    "id": "A3b2"
+  },
+  {
+    "url": "/regulations/#A3c",
+    "content_html": "The competitor may pick up the puzzle during inspection.",
+    "class": "regulation",
+    "id": "A3c"
+  },
+  {
+    "url": "/regulations/#A3c1",
+    "content_html": "The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "A3c1"
+  },
+  {
+    "url": "/regulations/#A3c2",
+    "content_html": "If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of <a href=\"https://www.worldcubeassociation.org/regulations/#10f\">Regulation 10f</a>.",
+    "class": "regulation",
+    "id": "A3c2"
+  },
+  {
+    "url": "/regulations/#A3c3",
+    "content_html": "The competitor may reset the timer before the start of the solve.",
+    "class": "regulation",
+    "id": "A3c3"
+  },
+  {
+    "url": "/regulations/#A3c4",
+    "content_html": "For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see <a href=\"https://www.worldcubeassociation.org/regulations/#A2b1\">Regulation A2b1</a>), the competitor may remove the object from the puzzle during inspection.",
+    "class": "regulation",
+    "id": "A3c4"
+  },
+  {
+    "url": "/regulations/#A3d",
+    "content_html": "At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "A3d"
+  },
+  {
+    "url": "/regulations/#A3d2",
+    "content_html": "When 8 seconds of inspection have elapsed, the judge calls &quot;8 SECONDS&quot;.",
+    "class": "regulation",
+    "id": "A3d2"
+  },
+  {
+    "url": "/regulations/#A3d3",
+    "content_html": "When 12 seconds of inspection have elapsed, the judge calls &quot;12 SECONDS&quot;.",
+    "class": "regulation",
+    "id": "A3d3"
+  },
+  {
+    "url": "/regulations/#A4",
+    "content_html": "Starting the solve:",
+    "class": "regulation",
+    "id": "A4"
+  },
+  {
+    "url": "/regulations/#A4b",
+    "content_html": "The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "A4b"
+  },
+  {
+    "url": "/regulations/#A4b1",
+    "content_html": "The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "A4b1"
+  },
+  {
+    "url": "/regulations/#A4d",
+    "content_html": "If a Stackmat timer is in use, the competitor starts the solve by confirming that the timer light is green and then removing their hands from the timer (thus starting the timer).",
+    "class": "regulation",
+    "id": "A4d"
+  },
+  {
+    "url": "/regulations/#A4d1",
+    "content_html": "The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "A4d1"
+  },
+  {
+    "url": "/regulations/#A4d2",
+    "content_html": "The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "A4d2"
+  },
+  {
+    "url": "/regulations/#A4d3",
+    "content_html": "If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.",
+    "class": "regulation",
+    "id": "A4d3"
+  },
+  {
+    "url": "/regulations/#A4e",
+    "content_html": "Time penalties for starting the solve are cumulative.",
+    "class": "regulation",
+    "id": "A4e"
+  },
+  {
+    "url": "/regulations/#A5",
+    "content_html": "During the solve:",
+    "class": "regulation",
+    "id": "A5"
+  },
+  {
+    "url": "/regulations/#A5a",
+    "content_html": "While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "A5a"
+  },
+  {
+    "url": "/regulations/#A5b",
+    "content_html": "While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see <a href=\"https://www.worldcubeassociation.org/regulations/#2i\">Regulation 2i</a>). Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "A5b"
+  },
+  {
+    "url": "/regulations/#A6",
+    "content_html": "Stopping the solve:",
+    "class": "regulation",
+    "id": "A6"
+  },
+  {
+    "url": "/regulations/#A6a",
+    "content_html": "The competitor stops the solve by releasing the puzzle and then stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.",
+    "class": "regulation",
+    "id": "A6a"
+  },
+  {
+    "url": "/regulations/#A6a1",
+    "content_html": "When using a stopwatch as the only timer, the competitor ends the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.",
+    "class": "regulation",
+    "id": "A6a1"
+  },
+  {
+    "url": "/regulations/#A6a2",
+    "content_html": "When using a stopwatch as the only timer, the competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.",
+    "class": "regulation",
+    "id": "A6a2"
+  },
+  {
+    "url": "/regulations/#A6b",
+    "content_html": "The competitor is responsible for stopping the Stackmat timer correctly.",
+    "class": "regulation",
+    "id": "A6b"
+  },
+  {
+    "url": "/regulations/#A6b1",
+    "content_html": "If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.",
+    "class": "regulation",
+    "id": "A6b1"
+  },
+  {
+    "url": "/regulations/#A6b2",
+    "content_html": "If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "A6b2"
+  },
+  {
+    "url": "/regulations/#A6c",
+    "content_html": "The competitor must fully release the puzzle before stopping the solve. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "A6c"
+  },
+  {
+    "url": "/regulations/#A6d",
+    "content_html": "The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "A6d"
+  },
+  {
+    "url": "/regulations/#A6e",
+    "content_html": "The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.",
+    "class": "regulation",
+    "id": "A6e"
+  },
+  {
+    "url": "/regulations/#A6f",
+    "content_html": "The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.",
+    "class": "regulation",
+    "id": "A6f"
+  },
+  {
+    "url": "/regulations/#A6g",
+    "content_html": "The judge determines whether the puzzle is solved. They must not make moves or align faces when examining the puzzle. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.",
+    "class": "regulation",
+    "id": "A6g"
+  },
+  {
+    "url": "/regulations/#A6h",
+    "content_html": "In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.",
+    "class": "regulation",
+    "id": "A6h"
+  },
+  {
+    "url": "/regulations/#A6i",
+    "content_html": "Time penalties for stopping the solve are cumulative.",
+    "class": "regulation",
+    "id": "A6i"
+  },
+  {
+    "url": "/regulations/#A7",
+    "content_html": "Recording results:",
+    "class": "regulation",
+    "id": "A7"
+  },
+  {
+    "url": "/regulations/#A7a",
+    "content_html": "The judge tells the competitor the result.",
+    "class": "regulation",
+    "id": "A7a"
+  },
+  {
+    "url": "/regulations/#A7a1",
+    "content_html": "If the judge finds that the puzzle is solved, they call &quot;OKAY&quot;.",
+    "class": "regulation",
+    "id": "A7a1"
+  },
+  {
+    "url": "/regulations/#A7a2",
+    "content_html": "If the judge assigns any penalties, they call &quot;PENALTY&quot;.",
+    "class": "regulation",
+    "id": "A7a2"
+  },
+  {
+    "url": "/regulations/#A7a3",
+    "content_html": "If the result is DNF, the judge calls &quot;DNF&quot;.",
+    "class": "regulation",
+    "id": "A7a3"
+  },
+  {
+    "url": "/regulations/#A7b",
+    "content_html": "The judge records the result on a score sheet.",
+    "class": "regulation",
+    "id": "A7b"
+  },
+  {
+    "url": "/regulations/#A7b1",
+    "content_html": "If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be &quot;X + T + Y = F&quot;, where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the &quot;original recorded time&quot;), Y represents a sum of time penalties during/after the solve, and F represents the final result (e.g. 2 + 17.65 + 2 = 21.65). If X and/or Y is 0, the 0 terms are omitted (e.g. 17.65 + 2 = 19.65).",
+    "class": "regulation",
+    "id": "A7b1"
+  },
+  {
+    "url": "/regulations/#A7c",
+    "content_html": "The judge and competitor must each check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.",
+    "class": "regulation",
+    "id": "A7c"
+  },
+  {
+    "url": "/regulations/#A7c1",
+    "content_html": "If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.",
+    "class": "regulation",
+    "id": "A7c1"
+  },
+  {
+    "url": "/regulations/#A7c2",
+    "content_html": "The competitor must not sign an attempt on the score sheet before the judge has recorded the final result for that attempt. If a competitor signs (or otherwise marks) an attempt before they have begun it, or before the judge has finished recording the result, they forfeit the attempt and the result will be considered DNS.",
+    "class": "regulation",
+    "id": "A7c2"
+  },
+  {
+    "url": "/regulations/#A7f",
+    "content_html": "When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.",
+    "class": "regulation",
+    "id": "A7f"
+  },
+  {
+    "url": "/regulations/#A7g",
+    "content_html": "At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.",
+    "class": "regulation",
+    "id": "A7g"
+  },
+  {
+    "url": "/regulations/#B1",
+    "content_html": "Standard speed solving procedures are followed, as described in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> (Speed Solving). Additional regulations that supersede the corresponding procedures in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> are described below.",
+    "class": "regulation",
+    "id": "B1"
+  },
+  {
+    "url": "/regulations/#B1a",
+    "content_html": "There is no inspection period.",
+    "class": "regulation",
+    "id": "B1a"
+  },
+  {
+    "url": "/regulations/#B1b",
+    "content_html": "The competitor supplies their own blindfold.",
+    "class": "regulation",
+    "id": "B1b"
+  },
+  {
+    "url": "/regulations/#B2",
+    "content_html": "Starting the attempt:",
+    "class": "regulation",
+    "id": "B2"
+  },
+  {
+    "url": "/regulations/#B2a",
+    "content_html": "The judge resets the timer(s) and asks &quot;READY?&quot; as in <a href=\"https://www.worldcubeassociation.org/regulations/#A3b1\">Regulation A3b1</a>. The competitor must be ready to start the attempt within one minute of being called, else the competitor forfeits the attempt (DNS), at the discretion of the judge.",
+    "class": "regulation",
+    "id": "B2a"
+  },
+  {
+    "url": "/regulations/#B2b",
+    "content_html": "The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "B2b"
+  },
+  {
+    "url": "/regulations/#B2c",
+    "content_html": "The competitor must have no physical contact with the puzzle before the start of the attempt. Penalty: time penalty (+2 seconds).",
+    "class": "regulation",
+    "id": "B2c"
+  },
+  {
+    "url": "/regulations/#B2d",
+    "content_html": "The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)",
+    "class": "regulation",
+    "id": "B2d"
+  },
+  {
+    "url": "/regulations/#B2d1",
+    "content_html": "The competitor removes the cover from the puzzle after starting the timer.",
+    "class": "regulation",
+    "id": "B2d1"
+  },
+  {
+    "url": "/regulations/#B2e",
+    "content_html": "If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.",
+    "class": "regulation",
+    "id": "B2e"
+  },
+  {
+    "url": "/regulations/#B2f",
+    "content_html": "If a stopwatch is in use as the only timer, the competitor places their hands on the table (instead of a Stackmat timer). After confirming that they are ready, the competitor starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.",
+    "class": "regulation",
+    "id": "B2f"
+  },
+  {
+    "url": "/regulations/#B3",
+    "content_html": "Memorization phase:",
+    "class": "regulation",
+    "id": "B3"
+  },
+  {
+    "url": "/regulations/#B3a",
+    "content_html": "The competitor may pick up the puzzle during the memorization phase.",
+    "class": "regulation",
+    "id": "B3a"
+  },
+  {
+    "url": "/regulations/#B3b",
+    "content_html": "The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "B3b"
+  },
+  {
+    "url": "/regulations/#B3c",
+    "content_html": "The competitor must not apply moves to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "B3c"
+  },
+  {
+    "url": "/regulations/#B4",
+    "content_html": "Blindfolded phase:",
+    "class": "regulation",
+    "id": "B4"
+  },
+  {
+    "url": "/regulations/#B4a",
+    "content_html": "The competitor dons the blindfold to start the blindfolded phase.",
+    "class": "regulation",
+    "id": "B4a"
+  },
+  {
+    "url": "/regulations/#B4b",
+    "content_html": "The competitor must not apply moves to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "B4b"
+  },
+  {
+    "url": "/regulations/#B4c",
+    "content_html": "The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.",
+    "class": "regulation",
+    "id": "B4c"
+  },
+  {
+    "url": "/regulations/#B4c1",
+    "content_html": "In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the opaque object were not in the way.",
+    "class": "regulation",
+    "id": "B4c1"
+  },
+  {
+    "url": "/regulations/#B4c2",
+    "content_html": "By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.",
+    "class": "regulation",
+    "id": "B4c2"
+  },
+  {
+    "url": "/regulations/#B4c3",
+    "content_html": "If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.",
+    "class": "regulation",
+    "id": "B4c3"
+  },
+  {
+    "url": "/regulations/#B4d",
+    "content_html": "The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "B4d"
+  },
+  {
+    "url": "/regulations/#B4e",
+    "content_html": "Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.",
+    "class": "regulation",
+    "id": "B4e"
+  },
+  {
+    "url": "/regulations/#B5",
+    "content_html": "Stopping the solve:",
+    "class": "regulation",
+    "id": "B5"
+  },
+  {
+    "url": "/regulations/#B5a",
+    "content_html": "When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.",
+    "class": "regulation",
+    "id": "B5a"
+  },
+  {
+    "url": "/regulations/#B5b",
+    "content_html": "When using a stopwatch, the competitor stops the solve by placing the puzzle back onto the surface and notifying the judge that they are stopping the solve. At that moment, the judge stops the timer.",
+    "class": "regulation",
+    "id": "B5b"
+  },
+  {
+    "url": "/regulations/#B5c",
+    "content_html": "If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the attempt. Penalty for touching the puzzle: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "B5c"
+  },
+  {
+    "url": "/regulations/#C1",
+    "content_html": "Standard speed solving procedures are followed, as described in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> (Speed Solving). Additional regulations that supersede the corresponding procedures in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> are described below.",
+    "class": "regulation",
+    "id": "C1"
+  },
+  {
+    "url": "/regulations/#C1b",
+    "content_html": "During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "C1b"
+  },
+  {
+    "url": "/regulations/#C1b2",
+    "content_html": "If a puzzle defect occurs, and the competitor chooses to repair it, they must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "C1b2"
+  },
+  {
+    "url": "/regulations/#C1b3",
+    "content_html": "If a puzzle defect occurs, and parts of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.",
+    "class": "regulation",
+    "id": "C1b3"
+  },
+  {
+    "url": "/regulations/#C1c",
+    "content_html": "During the solve, once a competitor touches the puzzle with one hand, they must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "C1c"
+  },
+  {
+    "url": "/regulations/#D1",
+    "content_html": "Standard speed solving procedures are followed, as described in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> (Speed Solving). Additional regulations that supersede the corresponding procedures in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> are described below.",
+    "class": "regulation",
+    "id": "D1"
+  },
+  {
+    "url": "/regulations/#D1a",
+    "content_html": "During the attempt, the competitor must sit in a chair, sit on the surface, or stand.",
+    "class": "regulation",
+    "id": "D1a"
+  },
+  {
+    "url": "/regulations/#D1b",
+    "content_html": "During the attempt, the competitor must use only their feet and the surface to manipulate the puzzle. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "D1b"
+  },
+  {
+    "url": "/regulations/#D3",
+    "content_html": "Starting the solve:",
+    "class": "regulation",
+    "id": "D3"
+  },
+  {
+    "url": "/regulations/#D3a",
+    "content_html": "The competitor places their feet onto the timer sensors.",
+    "class": "regulation",
+    "id": "D3a"
+  },
+  {
+    "url": "/regulations/#D3b",
+    "content_html": "The competitor removes their feet from the timer sensors to start the solve.",
+    "class": "regulation",
+    "id": "D3b"
+  },
+  {
+    "url": "/regulations/#D4",
+    "content_html": "Stopping the solve:",
+    "class": "regulation",
+    "id": "D4"
+  },
+  {
+    "url": "/regulations/#D4a",
+    "content_html": "The competitor stops the timer by placing their feet onto the timer sensors.",
+    "class": "regulation",
+    "id": "D4a"
+  },
+  {
+    "url": "/regulations/#E2",
+    "content_html": "Procedure for Fewest Moves Solving:",
+    "class": "regulation",
+    "id": "E2"
+  },
+  {
+    "url": "/regulations/#E2a",
+    "content_html": "The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls &quot;GO&quot;.",
+    "class": "regulation",
+    "id": "E2a"
+  },
+  {
+    "url": "/regulations/#E2b",
+    "content_html": "All competitors have a total time limit of 60 minutes to devise a solution.",
+    "class": "regulation",
+    "id": "E2b"
+  },
+  {
+    "url": "/regulations/#E2b1",
+    "content_html": "The judge should call &quot;5 MINUTES REMAINING&quot; at 55 minutes, and must call &quot;STOP&quot; at 60 minutes.",
+    "class": "regulation",
+    "id": "E2b1"
+  },
+  {
+    "url": "/regulations/#E2c",
+    "content_html": "At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in <a href=\"https://www.worldcubeassociation.org/regulations/#12a\">Regulation 12a</a>). Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "E2c"
+  },
+  {
+    "url": "/regulations/#E2d",
+    "content_html": "The length of the solution is calculated in Outer Block Turn Metric (see <a href=\"https://www.worldcubeassociation.org/regulations/#12a\">Regulation 12a</a>).",
+    "class": "regulation",
+    "id": "E2d"
+  },
+  {
+    "url": "/regulations/#E2d1",
+    "content_html": "The competitor is permitted a maximum solution length of 80 (moves and rotations).",
+    "class": "regulation",
+    "id": "E2d1"
+  },
+  {
+    "url": "/regulations/#E2e",
+    "content_html": "The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "E2e"
+  },
+  {
+    "url": "/regulations/#E2e1",
+    "content_html": "The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).",
+    "class": "regulation",
+    "id": "E2e1"
+  },
+  {
+    "url": "/regulations/#E3",
+    "content_html": "The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "E3"
+  },
+  {
+    "url": "/regulations/#E3a",
+    "content_html": "Paper and pens (both supplied by judge).",
+    "class": "regulation",
+    "id": "E3a"
+  },
+  {
+    "url": "/regulations/#E3b",
+    "content_html": "Rubik's Cubes (at most 3, self-supplied), as described in <a href=\"https://www.worldcubeassociation.org/regulations/#3\">Article 3</a>.",
+    "class": "regulation",
+    "id": "E3b"
+  },
+  {
+    "url": "/regulations/#E3c",
+    "content_html": "Stickers (self-supplied).",
+    "class": "regulation",
+    "id": "E3c"
+  },
+  {
+    "url": "/regulations/#E3d",
+    "content_html": "Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.",
+    "class": "regulation",
+    "id": "E3d"
+  },
+  {
+    "url": "/regulations/#F1",
+    "content_html": "Standard speed solving procedures are followed, as described in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> (Speed Solving). Additional regulations that supersede the corresponding procedures in <a href=\"https://www.worldcubeassociation.org/regulations/#A\">Article A</a> are described below.",
+    "class": "regulation",
+    "id": "F1"
+  },
+  {
+    "url": "/regulations/#F2",
+    "content_html": "The judge places the scrambled puzzle onto the mat in a standing position.",
+    "class": "regulation",
+    "id": "F2"
+  },
+  {
+    "url": "/regulations/#F3",
+    "content_html": "At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "F3"
+  },
+  {
+    "url": "/regulations/#F3a",
+    "content_html": "The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).",
+    "class": "regulation",
+    "id": "F3a"
+  },
+  {
+    "url": "/regulations/#H1",
+    "content_html": "Standard blindfolded solving procedures are followed, as described in <a href=\"https://www.worldcubeassociation.org/regulations/#B\">Article B</a> (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in <a href=\"https://www.worldcubeassociation.org/regulations/#B\">Article B</a> are described below.",
+    "class": "regulation",
+    "id": "H1"
+  },
+  {
+    "url": "/regulations/#H1a",
+    "content_html": "Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.",
+    "class": "regulation",
+    "id": "H1a"
+  },
+  {
+    "url": "/regulations/#H1a1",
+    "content_html": "A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.",
+    "class": "regulation",
+    "id": "H1a1"
+  },
+  {
+    "url": "/regulations/#H1a2",
+    "content_html": "A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).",
+    "class": "regulation",
+    "id": "H1a2"
+  },
+  {
+    "url": "/regulations/#H1b",
+    "content_html": "If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.",
+    "class": "regulation",
+    "id": "H1b"
+  },
+  {
+    "url": "/regulations/#H1b1",
+    "content_html": "The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.",
+    "class": "regulation",
+    "id": "H1b1"
+  },
+  {
+    "url": "/regulations/#H1d",
+    "content_html": "Time penalties for the puzzles of the attempt are cumulative.",
+    "class": "regulation",
+    "id": "H1d"
+  },
+  {
+    "url": "/regulations/#H1e",
+    "content_html": "Use of the Stackmat timer is optional for timekeeping.",
+    "class": "regulation",
+    "id": "H1e"
+  },
+  {
+    "url": "/regulations/#Z1",
+    "content_html": "The organization team may require competitors to submit puzzles during registration.",
+    "class": "regulation",
+    "id": "Z1"
+  },
+  {
+    "url": "/regulations/#Z2",
+    "content_html": "The organization team may limit the number of events per competitor.",
+    "class": "regulation",
+    "id": "Z2"
+  },
+  {
+    "url": "/regulations/#Z3",
+    "content_html": "The organization team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.",
+    "class": "regulation",
+    "id": "Z3"
+  },
+  {
+    "url": "/regulations/#Z4",
+    "content_html": "The organization team may limit the number of competitors per event or per competition, on either a &quot;first come first serve&quot; basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.",
+    "class": "regulation",
+    "id": "Z4"
+  },
+  {
+    "url": "/regulations/#Z5",
+    "content_html": "The organization team may prohibit competitors from participating in specific combinations of events.",
+    "class": "regulation",
+    "id": "Z5"
+  },
+  {
+    "url": "/regulations/guidelines.html#1c3+",
+    "content_html": "Results should be ready at the end of the last day of competition.",
+    "class": "regulation",
+    "id": "1c3+"
+  },
+  {
+    "url": "/regulations/guidelines.html#1c3++",
+    "content_html": "Physical records (e.g. score sheets, written solutions from Fewest Moves Solving) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.",
+    "class": "regulation",
+    "id": "1c3++"
+  },
+  {
+    "url": "/regulations/guidelines.html#1c3b+",
+    "content_html": "If there are multiple groups, it is not necessary to identify which competitor was in which groups.",
+    "class": "regulation",
+    "id": "1c3b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#1c4+",
+    "content_html": "Corrections to the results should be available within one week of the competition date.",
+    "class": "regulation",
+    "id": "1c4+"
+  },
+  {
+    "url": "/regulations/guidelines.html#1c10+",
+    "content_html": "It is sufficient to ensure access to a digital copy of the Regulations.",
+    "class": "regulation",
+    "id": "1c10+"
+  },
+  {
+    "url": "/regulations/guidelines.html#1h+",
+    "content_html": "Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.",
+    "class": "regulation",
+    "id": "1h+"
+  },
+  {
+    "url": "/regulations/guidelines.html#1h++",
+    "content_html": "All attempts in the final round of an event, as well as all Fewest Moves Solving attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).",
+    "class": "regulation",
+    "id": "1h++"
+  },
+  {
+    "url": "/regulations/guidelines.html#1h1+",
+    "content_html": "Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.",
+    "class": "regulation",
+    "id": "1h1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#1h1++",
+    "content_html": "For Fewest Moves Solving, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).",
+    "class": "regulation",
+    "id": "1h1++"
+  },
+  {
+    "url": "/regulations/guidelines.html#2c+",
+    "content_html": "First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "2c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#2c++",
+    "content_html": "Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).",
+    "class": "regulation",
+    "id": "2c++"
+  },
+  {
+    "url": "/regulations/guidelines.html#2d+",
+    "content_html": "Date of birth and contact information should be especially secured.",
+    "class": "regulation",
+    "id": "2d+"
+  },
+  {
+    "url": "/regulations/guidelines.html#2d++",
+    "content_html": "If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.",
+    "class": "regulation",
+    "id": "2d++"
+  },
+  {
+    "url": "/regulations/guidelines.html#2e+",
+    "content_html": "If a competitor holds multiple citizenship, they may choose which country to represent at their first competition.",
+    "class": "regulation",
+    "id": "2e+"
+  },
+  {
+    "url": "/regulations/guidelines.html#2e3+",
+    "content_html": "Stateless competitors have no national records and rankings, nor continental records and rankings.",
+    "class": "regulation",
+    "id": "2e3+"
+  },
+  {
+    "url": "/regulations/guidelines.html#2h+",
+    "content_html": "Competitors may be barefoot for Solving With Feet.",
+    "class": "regulation",
+    "id": "2h+"
+  },
+  {
+    "url": "/regulations/guidelines.html#2j2+",
+    "content_html": "For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.",
+    "class": "regulation",
+    "id": "2j2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#2s+",
+    "content_html": "Special accommodations must be noted in the Delegate Report.",
+    "class": "regulation",
+    "id": "2s+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3a+",
+    "content_html": "Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "3a+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3a++",
+    "content_html": "By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.",
+    "class": "regulation",
+    "id": "3a++"
+  },
+  {
+    "url": "/regulations/guidelines.html#3a+++",
+    "content_html": "Competitors may borrow puzzles from other competitors privately, to use in competition.",
+    "class": "regulation",
+    "id": "3a+++"
+  },
+  {
+    "url": "/regulations/guidelines.html#3a1+",
+    "content_html": "Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).",
+    "class": "regulation",
+    "id": "3a1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3d1b+",
+    "content_html": "Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.",
+    "class": "regulation",
+    "id": "3d1b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3h+",
+    "content_html": "Puzzles may be refined internally by sanding or lubricating.",
+    "class": "regulation",
+    "id": "3h+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3h++",
+    "content_html": "Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.",
+    "class": "regulation",
+    "id": "3h++"
+  },
+  {
+    "url": "/regulations/guidelines.html#3h2+",
+    "content_html": "In the past, &quot;stickerless&quot; puzzles were not permitted. Such puzzles are now permitted.",
+    "class": "regulation",
+    "id": "3h2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3h2++",
+    "content_html": "&quot;Stickerless&quot; puzzles that significantly differ from most mass-produced &quot;stickerless&quot; puzzles are only permitted at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "3h2++"
+  },
+  {
+    "url": "/regulations/guidelines.html#3j+",
+    "content_html": "In the past, engraved/embossed parts have been permitted. This is no longer permitted.",
+    "class": "regulation",
+    "id": "3j+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3j++",
+    "content_html": "On Clock, pins must not be distinguishable from any other pin of the same side.",
+    "class": "regulation",
+    "id": "3j++"
+  },
+  {
+    "url": "/regulations/guidelines.html#3j2+",
+    "content_html": "On Clock, all eighteen inner clock faces are considered similar pieces.",
+    "class": "regulation",
+    "id": "3j2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#3l+",
+    "content_html": "Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "3l+"
+  },
+  {
+    "url": "/regulations/guidelines.html#4b1+",
+    "content_html": "The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate &quot;fairer&quot; scramble sequences.",
+    "class": "regulation",
+    "id": "4b1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#4b2+",
+    "content_html": "In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see <a href=\"https://www.worldcubeassociation.org/regulations/#1c3a\">Regulation 1c3a</a>). In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a round.",
+    "class": "regulation",
+    "id": "4b2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#4b4+",
+    "content_html": "All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence exceeds).",
+    "class": "regulation",
+    "id": "4b4+"
+  },
+  {
+    "url": "/regulations/guidelines.html#4d+",
+    "content_html": "Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.",
+    "class": "regulation",
+    "id": "4d+"
+  },
+  {
+    "url": "/regulations/guidelines.html#4d++",
+    "content_html": "It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see <a href=\"https://www.worldcubeassociation.org/regulations/#A2e1\">Regulation A2e1</a>).",
+    "class": "regulation",
+    "id": "4d++"
+  },
+  {
+    "url": "/regulations/guidelines.html#4f+",
+    "content_html": "The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.",
+    "class": "regulation",
+    "id": "4f+"
+  },
+  {
+    "url": "/regulations/guidelines.html#4f++",
+    "content_html": "If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved (see <a href=\"https://www.worldcubeassociation.org/regulations/#1c3a\">Regulation 1c3a</a>).",
+    "class": "regulation",
+    "id": "4f++"
+  },
+  {
+    "url": "/regulations/guidelines.html#5b5+",
+    "content_html": "Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.",
+    "class": "regulation",
+    "id": "5b5+"
+  },
+  {
+    "url": "/regulations/guidelines.html#5b5++",
+    "content_html": "Examples of parts physically detached, resulting in a &quot;DNF&quot;: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece (&quot;wing&quot;), any combination of two pieces that both have colored parts.",
+    "class": "regulation",
+    "id": "5b5++"
+  },
+  {
+    "url": "/regulations/guidelines.html#5b5+++",
+    "content_html": "Example of parts not fully attached, resulting in a solved state: a 5x5x5 center piece twisted in its spot.",
+    "class": "regulation",
+    "id": "5b5+++"
+  },
+  {
+    "url": "/regulations/guidelines.html#5b5++++",
+    "content_html": "Example of parts physically attached but not fully placed, resulting in a &quot;DNF&quot;: a 3x3x3 edge piece slightly popped out.",
+    "class": "regulation",
+    "id": "5b5++++"
+  },
+  {
+    "url": "/regulations/guidelines.html#5c+",
+    "content_html": "If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.",
+    "class": "regulation",
+    "id": "5c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#6a+",
+    "content_html": "Awards, prizes or honors may be given to competitors according to the announcement of the competition.",
+    "class": "regulation",
+    "id": "6a+"
+  },
+  {
+    "url": "/regulations/guidelines.html#6b+",
+    "content_html": "Competitors should attend the winner's ceremony to receive awards/prizes/honors.",
+    "class": "regulation",
+    "id": "6b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#6b1+",
+    "content_html": "The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.",
+    "class": "regulation",
+    "id": "6b1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#6c+",
+    "content_html": "Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.",
+    "class": "regulation",
+    "id": "6c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#6d+",
+    "content_html": "Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.",
+    "class": "regulation",
+    "id": "6d+"
+  },
+  {
+    "url": "/regulations/guidelines.html#7d+",
+    "content_html": "The temperature of the competition area should be 21 to 25 degrees Celsius.",
+    "class": "regulation",
+    "id": "7d+"
+  },
+  {
+    "url": "/regulations/guidelines.html#7f1a+",
+    "content_html": "A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).",
+    "class": "regulation",
+    "id": "7f1a+"
+  },
+  {
+    "url": "/regulations/guidelines.html#7h2+",
+    "content_html": "The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.",
+    "class": "regulation",
+    "id": "7h2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#8a4++",
+    "content_html": "The competition should be announced at least one month before the start of the competition.",
+    "class": "regulation",
+    "id": "8a4++"
+  },
+  {
+    "url": "/regulations/guidelines.html#8a5+",
+    "content_html": "The competition should have at least 12 competitors.",
+    "class": "regulation",
+    "id": "8a5+"
+  },
+  {
+    "url": "/regulations/guidelines.html#8a7+",
+    "content_html": "Organizers should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).",
+    "class": "regulation",
+    "id": "8a7+"
+  },
+  {
+    "url": "/regulations/guidelines.html#9b+",
+    "content_html": "The preferred format for the final of an event is &quot;Average of 5&quot; or &quot;Mean of 3&quot;, if possible.",
+    "class": "regulation",
+    "id": "9b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#9b++",
+    "content_html": "Events other than those specified in <a href=\"https://www.worldcubeassociation.org/regulations/#9b\">Regulation 9b</a> may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.",
+    "class": "regulation",
+    "id": "9b++"
+  },
+  {
+    "url": "/regulations/guidelines.html#9b3b+",
+    "content_html": "The &quot;Mean of 3&quot; statistic does not affect the competitor's ranking in a &quot;Best of 3&quot; round (which is based on the best result). The WCA recognizes it outside of the competition format.",
+    "class": "regulation",
+    "id": "9b3b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#9f1+",
+    "content_html": "If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.",
+    "class": "regulation",
+    "id": "9f1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#9f4+",
+    "content_html": "The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see <a href=\"https://www.worldcubeassociation.org/regulations/#A3b2\">Regulation A3b2</a>) but the attempt was disqualified.",
+    "class": "regulation",
+    "id": "9f4+"
+  },
+  {
+    "url": "/regulations/guidelines.html#9f5+",
+    "content_html": "The result for an attempt is DNS if the competitor was eligible for the attempt and did not start it (see <a href=\"https://www.worldcubeassociation.org/regulations/#A3b2\">Regulation A3b2</a>). If the competitor did not qualify for an attempt (e.g. in a combined round), they have no result for the attempt.",
+    "class": "regulation",
+    "id": "9f5+"
+  },
+  {
+    "url": "/regulations/guidelines.html#9q+",
+    "content_html": "Events and rounds should have at least 2 competitors.",
+    "class": "regulation",
+    "id": "9q+"
+  },
+  {
+    "url": "/regulations/guidelines.html#10f+",
+    "content_html": "The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.",
+    "class": "regulation",
+    "id": "10f+"
+  },
+  {
+    "url": "/regulations/guidelines.html#10h1+",
+    "content_html": "The solved state of Clock is not affected by loose or popped pin caps.",
+    "class": "regulation",
+    "id": "10h1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#11e+",
+    "content_html": "Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.",
+    "class": "regulation",
+    "id": "11e+"
+  },
+  {
+    "url": "/regulations/guidelines.html#11e1+",
+    "content_html": "The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scramble program (see <a href=\"https://www.worldcubeassociation.org/regulations/#4f\">Regulation 4f</a>, <a href=\"https://www.worldcubeassociation.org/regulations/guidelines.html#4f+\">Guideline 4f+</a>).",
+    "class": "regulation",
+    "id": "11e1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#11e2+",
+    "content_html": "If an extra attempt itself leads to an additional extra attempt, the competitor should keep doing extra attempts until there is a valid extra attempt to replace the original regularly numbered attempt.",
+    "class": "regulation",
+    "id": "11e2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#11e2++",
+    "content_html": "Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, the competitor should proceed in a similar way as for #2.",
+    "class": "regulation",
+    "id": "11e2++"
+  },
+  {
+    "url": "/regulations/guidelines.html#12c2+",
+    "content_html": "When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.",
+    "class": "regulation",
+    "id": "12c2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A1a2+",
+    "content_html": "In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. &quot;DNF (1:02.27)&quot;.",
+    "class": "regulation",
+    "id": "A1a2+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A1a2++",
+    "content_html": "Cumulative time limits may be enforced for a single event or a combination of events.",
+    "class": "regulation",
+    "id": "A1a2++"
+  },
+  {
+    "url": "/regulations/guidelines.html#A1a2+++",
+    "content_html": "In case of a cumulative time limit, the result of each remaining attempt in the round is recorded as DNS (Did Not Start) after a competitor reaches the time limit.",
+    "class": "regulation",
+    "id": "A1a2+++"
+  },
+  {
+    "url": "/regulations/guidelines.html#A1a3+",
+    "content_html": "The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.",
+    "class": "regulation",
+    "id": "A1a3+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A1a4+",
+    "content_html": "If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see <a href=\"https://www.worldcubeassociation.org/regulations/#1g2\">Regulation 1g2</a>). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).",
+    "class": "regulation",
+    "id": "A1a4+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A1c+",
+    "content_html": "WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a &quot;poor&quot; result when they are competing to the best of their abilities.",
+    "class": "regulation",
+    "id": "A1c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A2c1+",
+    "content_html": "In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.",
+    "class": "regulation",
+    "id": "A2c1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A3c3+",
+    "content_html": "The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see <a href=\"https://www.worldcubeassociation.org/regulations/#A3b\">Regulation A3b</a>). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the timer for a reasonable length of time, assumes that the timer will start normally, and starts to manipulate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.",
+    "class": "regulation",
+    "id": "A3c3+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A3c4+",
+    "content_html": "If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.",
+    "class": "regulation",
+    "id": "A3c4+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A3c4++",
+    "content_html": "The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).",
+    "class": "regulation",
+    "id": "A3c4++"
+  },
+  {
+    "url": "/regulations/guidelines.html#A5b+",
+    "content_html": "While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: One-Handed Solving and Solving With Feet (see <a href=\"https://www.worldcubeassociation.org/regulations/#C1b\">Regulation C1b</a> and <a href=\"https://www.worldcubeassociation.org/regulations/#D1b\">Regulation D1b</a>).",
+    "class": "regulation",
+    "id": "A5b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A6b+",
+    "content_html": "The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.",
+    "class": "regulation",
+    "id": "A6b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A6f+",
+    "content_html": "If the competitor resets the timer before the result was completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).",
+    "class": "regulation",
+    "id": "A6f+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A6g+",
+    "content_html": "While the judge is determining whether to assign a penalty for misalignment, they should not touch the puzzle.",
+    "class": "regulation",
+    "id": "A6g+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A7c+",
+    "content_html": "If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. &quot;1:05&quot; will be considered 1:05.99, &quot;25.X3&quot; will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. &quot;1:2.27&quot; will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.",
+    "class": "regulation",
+    "id": "A7c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A7g+",
+    "content_html": "Examples of incidents that could grant a new competitor an extra attempt: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start an attempt, or other procedural time penalties.",
+    "class": "regulation",
+    "id": "A7g+"
+  },
+  {
+    "url": "/regulations/guidelines.html#A7g++",
+    "content_html": "Individual penalties cannot be waived for new competitors. A full extra attempt must be granted.",
+    "class": "regulation",
+    "id": "A7g++"
+  },
+  {
+    "url": "/regulations/guidelines.html#A7g+++",
+    "content_html": "The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same new competitor. If more than one extra attempt is granted, it should be for a different incident.",
+    "class": "regulation",
+    "id": "A7g+++"
+  },
+  {
+    "url": "/regulations/guidelines.html#B1+",
+    "content_html": "The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see <a href=\"https://www.worldcubeassociation.org/regulations/#3k\">Regulation 3k</a>). This should be given special attention for Blindfolded Solving.",
+    "class": "regulation",
+    "id": "B1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#B1b+",
+    "content_html": "Blindfolds should be checked by the WCA Delegate before use in the competition.",
+    "class": "regulation",
+    "id": "B1b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#C1b+",
+    "content_html": "The competitor may use both hands during inspection.",
+    "class": "regulation",
+    "id": "C1b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#C1b++",
+    "content_html": "The competitor is not required to use the same solving hand for different attempts of the same round.",
+    "class": "regulation",
+    "id": "C1b++"
+  },
+  {
+    "url": "/regulations/guidelines.html#C1b+++",
+    "content_html": "Use of the surface is permitted while solving or repairing the puzzle.",
+    "class": "regulation",
+    "id": "C1b+++"
+  },
+  {
+    "url": "/regulations/guidelines.html#D1b+",
+    "content_html": "The competitor may wear socks while solving.",
+    "class": "regulation",
+    "id": "D1b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#D1c+",
+    "content_html": "While repairing puzzle defects, other body parts must not touch the puzzle.",
+    "class": "regulation",
+    "id": "D1c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#E2b+",
+    "content_html": "A competitor may choose to stop an attempt early by handing in a solution before the time limit.",
+    "class": "regulation",
+    "id": "E2b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#E2c+",
+    "content_html": "Although the judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper, as long as a single move sequence is unambiguously indicated as the submitted solution. (Note that the piece of paper must come from the judge, according to <a href=\"https://www.worldcubeassociation.org/regulations/#E3a\">Regulation E3a</a>.)",
+    "class": "regulation",
+    "id": "E2c+"
+  },
+  {
+    "url": "/regulations/guidelines.html#E2c++",
+    "content_html": "The competitor's solution must only use moves that are exactly defined in <a href=\"https://www.worldcubeassociation.org/regulations/#12a\">Regulation 12a</a>. Examples of notation and moves that are not permitted in competition: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.",
+    "class": "regulation",
+    "id": "E2c++"
+  },
+  {
+    "url": "/regulations/guidelines.html#E2e+",
+    "content_html": "Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.",
+    "class": "regulation",
+    "id": "E2e+"
+  },
+  {
+    "url": "/regulations/guidelines.html#E2e++",
+    "content_html": "Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.",
+    "class": "regulation",
+    "id": "E2e++"
+  },
+  {
+    "url": "/regulations/guidelines.html#E3b+",
+    "content_html": "&quot;Rubik's Cube&quot; refers only to the standard 3x3x3 puzzle.",
+    "class": "regulation",
+    "id": "E3b+"
+  },
+  {
+    "url": "/regulations/guidelines.html#E3d+",
+    "content_html": "Any stopwatch or watch used by a competitor must not appear to have any functions that would help the competitor find a solution.",
+    "class": "regulation",
+    "id": "E3d+"
+  },
+  {
+    "url": "/regulations/guidelines.html#E3d++",
+    "content_html": "Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution after the judge calls &quot;STOP&quot;.",
+    "class": "regulation",
+    "id": "E3d++"
+  },
+  {
+    "url": "/regulations/guidelines.html#H1b1+",
+    "content_html": "The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see <a href=\"https://www.worldcubeassociation.org/regulations/#A1a4\">Regulation A1a4</a> and <a href=\"https://www.worldcubeassociation.org/regulations/#A1a5\">Regulation A1a5</a>).",
+    "class": "regulation",
+    "id": "H1b1+"
+  },
+  {
+    "url": "/regulations/guidelines.html#H1b1++",
+    "content_html": "The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.",
+    "class": "regulation",
+    "id": "H1b1++"
+  },
+  {
+    "url": "/regulations/guidelines.html#H1d+",
+    "content_html": "Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The final result is 59:57 + 2*2 = 60:01 (also see <a href=\"https://www.worldcubeassociation.org/regulations/#A1a5\">Regulation A1a5</a>).",
+    "class": "regulation",
+    "id": "H1d+"
+  },
+  {
+    "url": "/regulations/guidelines.html#H1d++",
+    "content_html": "Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The final result is 60:00 + 2*2 = 60:04.",
+    "class": "regulation",
+    "id": "H1d++"
+  }
+]
