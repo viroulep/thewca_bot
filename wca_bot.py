@@ -73,7 +73,7 @@ def profile_description(person):
   if person["delegate_status"]:
     description += "This person is a {} for {}\n".format(person["delegate_status"].replace("_", " "), person["region"])
   for team in person["teams"]:
-    description += "{} team member.\n".format(team["friendly_id"])
+    description += "{} team {}.\n".format(team["friendly_id"], "leader" if team["leader"] else "member")
   description += "[WCA profile]({})".format(person["url"])
   logger.info(description)
   return description
