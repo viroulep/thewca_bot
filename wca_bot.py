@@ -81,6 +81,7 @@ def profile_description(person):
 def competition_description(comp):
   description = "{} ({}) - {}\n".format(comp["name"], comp["id"], comp["country_iso2"])
   description += "Competition starts on {} and ends on {}\n".format(comp["start_date"], comp["end_date"])
+  description += "Page on the [WCA website]({})\n".format(comp["url"])
   delegates = []
   for person in comp["delegates"]:
     delegates.append("[{}]({})".format(person["name"], person["url"]))
@@ -89,7 +90,6 @@ def competition_description(comp):
   for person in comp["organizers"]:
     organizers.append("[{}]({})".format(person["name"], person["url"]))
   description += "Organizer(s): " + ", ".join(organizers) + "\n"
-  description += "Page on the [WCA website]({})".format(comp["url"])
   logger.info(description)
   return description
 
