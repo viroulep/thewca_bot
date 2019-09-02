@@ -38,6 +38,7 @@ telegram_token = os.environ['TELEGRAM_TOKEN']
 wca_base_url = 'https://www.worldcubeassociation.org'
 wca_api_url = wca_base_url + '/api/v0'
 wca_logo_url = wca_base_url + '/files/WCAlogo_notext.svg'
+regional_indicator_offset = 127397  # = ord("🇦") - ord("A")
 
 # Define a few command handlers. These usually take the two arguments bot and
 # update. Error handlers also receive the raised TelegramError object in error.
@@ -68,8 +69,11 @@ def regulation_description(reg_type, reg):
   logger.info(description)
   return description
 
+def flag_from_iso2(iso2):
+  return "".join([chr(ord(x) + regional_indicator_offset) for x in iso2])
+
 def profile_description(person):
-  description = "{} ({}) - {}\n".format(person["name"], person["wca_id"], person["country_iso2"])
+  description = "{} ({}) - {}\n".format(person["name"], person["wca_id"], flag_from_iso2(person["country_iso2"]))
   if person["delegate_status"]:
     description += "This person is a {} for {}\n".format(person["delegate_status"].replace("_", " "), person["region"])
   for team in person["teams"]:
@@ -79,7 +83,7 @@ def profile_description(person):
   return description
 
 def competition_description(comp):
-  description = "{} ({}) - {}\n".format(comp["name"], comp["id"], comp["country_iso2"])
+  description = "{} ({}) - {}\n".format(comp["name"], comp["id"], flag_from_iso2(comp["country_iso2"]))
   description += "Competition starts on {} and ends on {}\n".format(comp["start_date"], comp["end_date"])
   description += "Page on the [WCA website]({})\n".format(comp["url"])
   delegates = []
@@ -109,7 +113,7 @@ def omni_search(text):
           thumb_url=result["avatar"]["thumb_url"],
           url=result["url"],
           input_message_content=InputTextMessageContent(profile_description(result), parse_mode=ParseMode.MARKDOWN),
-          description=result["country_iso2"],
+          description=flag_from_iso2(result["country_iso2"]),
         ))
     elif result["class"] == "competition":
       results.append(InlineQueryResultArticle(
@@ -118,7 +122,7 @@ def omni_search(text):
           url=result["url"],
           thumb_url=wca_logo_url,
           input_message_content=InputTextMessageContent(competition_description(result), parse_mode=ParseMode.MARKDOWN),
-          description="Competition, starts {} in {}, {}".format(result["start_date"], result["city"], result["country_iso2"]),
+          description="Competition, starts {} in {}, {}".format(result["start_date"], result["city"], flag_from_iso2(result["country_iso2"])),
         ))
     elif result["class"] == "regulation":
       reg_type = "Guideline" if result["id"].endswith("+") else "Regulation"
