@@ -22,9 +22,9 @@ import re, json, os, requests
 
 from telegram.utils.helpers import escape_markdown
 
-from telegram import InlineQueryResultArticle, ParseMode, \
+from telegram import InlineQueryResultArticle, Update, ParseMode, \
   InputTextMessageContent
-from telegram.ext import Updater, InlineQueryHandler, CommandHandler, MessageHandler, Filters
+from telegram.ext import CallbackContext, Updater, InlineQueryHandler, CommandHandler, MessageHandler, Filters
 import logging
 
 # Enable logging
@@ -42,18 +42,14 @@ regional_indicator_offset = 127397  # = ord("🇦") - ord("A")
 
 # Define a few command handlers. These usually take the two arguments bot and
 # update. Error handlers also receive the raised TelegramError object in error.
-def start(bot, update):
+def start(update: Update, context: CallbackContext) -> None:
   """Send a message when the command /start is issued."""
   update.message.reply_text('I only work inline, type my name and search the WCA!')
 
 
-def help(bot, update):
+def help(update: Update, context: CallbackContext):
   """Send a message when the command /help is issued."""
   update.message.reply_text('I only work inline, type my name and search the WCA!')
-
-def get_regs(bot, update):
-  url, message = find_reg(update.message.text)
-  bot.send_message(chat_id=update.message.chat_id, text=message, parse_mode=ParseMode.MARKDOWN)
 
 def find_reg(text):
   result = "", "Couldn't find the Regulation or Guideline"
@@ -66,7 +62,6 @@ def find_reg(text):
 def regulation_description(reg_type, reg):
   description = "<a href=\"{}\">{} {}</a>:\n".format(wca_base_url+reg["url"], reg_type, reg["id"])
   description += reg["content_html"]
-  logger.info(description)
   return description
 
 def flag_from_iso2(iso2):
@@ -79,7 +74,6 @@ def profile_description(person):
   for team in person["teams"]:
     description += "{} team {}.\n".format(team["friendly_id"].upper(), "leader" if team["leader"] else "member")
   description += "[WCA profile]({})".format(person["url"])
-  logger.info(description)
   return description
 
 def competition_description(comp):
@@ -94,7 +88,6 @@ def competition_description(comp):
   for person in comp["organizers"]:
     organizers.append("[{}]({})".format(person["name"], person["url"]))
   description += "Organizer(s): " + ", ".join(organizers) + "\n"
-  logger.info(description)
   return description
 
 def omni_search(text):
@@ -108,7 +101,7 @@ def omni_search(text):
   for result in data["result"]:
     if result["class"] == "person":
       results.append(InlineQueryResultArticle(
-          id=uuid4(),
+          id=str(uuid4()),
           title="{}'s profile".format(result["name"]),
           thumb_url=result["avatar"]["thumb_url"],
           url=result["url"],
@@ -117,7 +110,7 @@ def omni_search(text):
         ))
     elif result["class"] == "competition":
       results.append(InlineQueryResultArticle(
-          id=uuid4(),
+          id=str(uuid4()),
           title=result["name"],
           url=result["url"],
           thumb_url=wca_logo_url,
@@ -127,7 +120,7 @@ def omni_search(text):
     elif result["class"] == "regulation":
       reg_type = "Guideline" if result["id"].endswith("+") else "Regulation"
       results.append(InlineQueryResultArticle(
-          id=uuid4(),
+          id=str(uuid4()),
           title="{} {}".format(reg_type, result["id"]),
           url=wca_base_url+result["url"],
           thumb_url=wca_logo_url,
@@ -137,21 +130,24 @@ def omni_search(text):
   return results
 
 
-def inlinequery(bot, update):
+def inlinequery(update: Update, context: CallbackContext) -> None:
   """Handle the inline query."""
   query = update.inline_query.query
+  if len(query) <= 2:
+    return
   results = omni_search(query)
   update.inline_query.answer(results)
 
 
-def error(bot, update, error):
+def error(update: object, context: CallbackContext) -> None:
     """Log Errors caused by Updates."""
-    logger.warning('Update "%s" caused error "%s"', update, error)
+    update_str = update.to_dict() if isinstance(update, Update) else str(update)
+    logger.error('Update "%s" caused error "%s"', update_str, context.error)
 
 
-def main():
+def main() -> None:
   # Create the Updater and pass it your bot's token.
-  updater = Updater(token=telegram_token)
+  updater = Updater(telegram_token)
 
   # Get the dispatcher to register handlers
   dp = updater.dispatcher
@@ -160,7 +156,6 @@ def main():
   dp.add_handler(CommandHandler("start", start))
   dp.add_handler(CommandHandler("help", help))
 
-  # dp.add_handler(MessageHandler(Filters.text, get_regs))
   # on noncommand i.e message - echo the message on Telegram
   dp.add_handler(InlineQueryHandler(inlinequery))
 
